@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:sugar",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:magic_sugar",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 358
+}

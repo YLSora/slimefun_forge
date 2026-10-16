@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:flask_of_knowledge",
+    "count": 8
+  },
+  "shaped": true,
+  "source_line": 1411
+}

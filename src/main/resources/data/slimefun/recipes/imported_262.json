@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_capacitor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:medium_capacitor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1572
+}

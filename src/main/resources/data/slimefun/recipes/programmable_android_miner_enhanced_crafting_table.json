@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "slimefun:programmable_android",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:programmable_android_miner",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1964
+}

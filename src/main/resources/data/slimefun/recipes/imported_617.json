@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "minecraft:copper_ingot",
+      "count": 9
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_block",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 100
+}

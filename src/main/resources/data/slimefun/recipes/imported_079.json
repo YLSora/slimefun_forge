@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:wheat",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:wheat_flour",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 627
+}

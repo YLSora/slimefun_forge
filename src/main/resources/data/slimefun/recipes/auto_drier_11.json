@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "auto_drier",
+  "inputs": [
+    {
+      "item": "minecraft:cooked_rabbit",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rabbit_jerky",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 120
+}

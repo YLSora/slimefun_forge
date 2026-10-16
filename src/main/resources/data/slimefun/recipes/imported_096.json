@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:hook",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 705
+}

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_ore_grinder",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1720
+}

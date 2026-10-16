@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:emerald"
+      },
+      {
+        "item": "slimefun:synthetic_emerald"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:emerald_block"
+  },
+  "show_notification": true
+}

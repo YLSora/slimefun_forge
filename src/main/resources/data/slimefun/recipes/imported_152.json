@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:can",
+    "count": 8
+  },
+  "shaped": true,
+  "source_line": 1049
+}

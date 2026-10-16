@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:solar_generator_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solar_generator_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solar_generator_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solar_generator_2",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:solar_generator_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1600
+}

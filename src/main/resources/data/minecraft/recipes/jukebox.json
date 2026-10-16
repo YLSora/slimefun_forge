@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "X": [
+      {
+        "tag": "forge:gems/diamond"
+      },
+      {
+        "item": "slimefun:synthetic_diamond"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:jukebox"
+  },
+  "show_notification": true
+}

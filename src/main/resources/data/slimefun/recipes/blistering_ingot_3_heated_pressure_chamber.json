@@ -1,0 +1,28 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    {
+      "item": "slimefun:blistering_ingot_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:blistering_ingot_3",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2310,
+  "ticks": 1200
+}

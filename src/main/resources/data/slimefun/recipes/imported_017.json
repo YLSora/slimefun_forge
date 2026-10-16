@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:ender_lump_1",
+    "count": 2
+  },
+  "shaped": false,
+  "source_line": 321
+}

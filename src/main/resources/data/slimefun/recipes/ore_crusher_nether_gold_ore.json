@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "minecraft:nether_gold_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 8
+  },
+  "shaped": false,
+  "ore_doubling": true
+}

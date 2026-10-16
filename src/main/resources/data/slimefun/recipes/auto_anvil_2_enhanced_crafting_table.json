@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:auto_anvil",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:steel_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_plate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:auto_anvil_2",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1853
+}

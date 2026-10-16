@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:andesite",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  },
+  "shaped": false
+}

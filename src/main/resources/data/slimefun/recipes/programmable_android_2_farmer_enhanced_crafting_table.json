@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:gps_transmitter",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:diamond_hoe",
+      "count": 1
+    },
+    {
+      "item": "slimefun:programmable_android_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond_hoe",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:programmable_android_2_farmer",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1996
+}

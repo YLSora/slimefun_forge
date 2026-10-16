@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "minecraft:orange_wool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:orange_wool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:scuba_helmet",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 979
+}

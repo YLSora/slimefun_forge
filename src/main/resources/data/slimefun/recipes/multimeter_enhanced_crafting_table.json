@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:copper_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:copper_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:gold_6k",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:multimeter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1867
+}

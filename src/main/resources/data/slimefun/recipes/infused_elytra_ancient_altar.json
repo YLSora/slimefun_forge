@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "minecraft:elytra",
+      "count": 1
+    },
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    {
+      "item": "slimefun:flask_of_knowledge",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:infused_elytra",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2071
+}

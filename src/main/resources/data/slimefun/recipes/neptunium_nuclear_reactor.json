@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "nuclear_reactor",
+  "inputs": [
+    {
+      "item": "slimefun:uranium",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:neptunium",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2504
+}

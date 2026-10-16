@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/light_blue_stained_glass_pane_noside",
+  "render_type": "minecraft:translucent"
+}

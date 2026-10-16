@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:red_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cyan_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_ender",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:magenta_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ancient_rune_rainbow",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2046
+}

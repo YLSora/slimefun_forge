@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:cloth",
+    "count": 8
+  },
+  "shaped": true,
+  "source_line": 1029
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbon_press_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:carbon_press_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2600
+}

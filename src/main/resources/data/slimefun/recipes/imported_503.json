@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:blaze_rod",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 4
+  },
+  "shaped": false
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_boots"
+    },
+    {
+      "item": "sf_example:colored_component"
+    }
+  ],
+  "result": {
+    "item": "sf_example:protective_boots"
+  }
+}

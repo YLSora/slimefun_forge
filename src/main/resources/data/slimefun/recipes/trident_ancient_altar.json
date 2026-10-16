@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:nautilus_shell",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nautilus_shell",
+      "count": 1
+    },
+    {
+      "item": "slimefun:staff_elemental_water",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "count": 1
+    },
+    {
+      "item": "slimefun:staff_elemental_water",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2079
+}

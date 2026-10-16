@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:amethyst_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 4
+  },
+  "shaped": false
+}

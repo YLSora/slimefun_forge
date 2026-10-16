@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:wither_proof_obsidian",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 1540
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:aluminum_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_dust",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:duct_tape",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 1563
+}

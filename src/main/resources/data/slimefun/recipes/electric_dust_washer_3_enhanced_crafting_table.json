@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:water_bucket",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_dust_washer_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_dust_washer_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1671
+}

@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:lily_pad",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lily_pad",
+      "count": 1
+    },
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:staff_elemental_water",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 723
+}

@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:cobalt_pickaxe",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1167
+}

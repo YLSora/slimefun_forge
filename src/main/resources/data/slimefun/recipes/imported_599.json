@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_1",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "slimefun:ender_lump_2",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 240
+}

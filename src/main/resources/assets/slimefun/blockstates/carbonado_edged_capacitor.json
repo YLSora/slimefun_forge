@@ -1,0 +1,324 @@
+{
+  "variants": {
+    "head_pose=0,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor",
+      "y": 0
+    },
+    "head_pose=1,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_1",
+      "y": 0
+    },
+    "head_pose=2,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_2",
+      "y": 0
+    },
+    "head_pose=3,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_-1",
+      "y": 90
+    },
+    "head_pose=4,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor",
+      "y": 90
+    },
+    "head_pose=5,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_1",
+      "y": 90
+    },
+    "head_pose=6,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_2",
+      "y": 90
+    },
+    "head_pose=7,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_-1",
+      "y": 180
+    },
+    "head_pose=8,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor",
+      "y": 180
+    },
+    "head_pose=9,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_1",
+      "y": 180
+    },
+    "head_pose=10,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_2",
+      "y": 180
+    },
+    "head_pose=11,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_-1",
+      "y": 270
+    },
+    "head_pose=12,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor",
+      "y": 270
+    },
+    "head_pose=13,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_1",
+      "y": 270
+    },
+    "head_pose=14,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_2",
+      "y": 270
+    },
+    "head_pose=15,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_turn_-1",
+      "y": 0
+    },
+    "head_pose=16,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_wall",
+      "y": 0
+    },
+    "head_pose=17,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_wall",
+      "y": 90
+    },
+    "head_pose=18,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_wall",
+      "y": 180
+    },
+    "head_pose=19,charge_level=0": {
+      "model": "slimefun:block/carbonado_edged_capacitor_wall",
+      "y": 270
+    },
+    "head_pose=0,charge_level=1": {
+      "model": "slimefun:block/capacitor_50",
+      "y": 0
+    },
+    "head_pose=1,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_1",
+      "y": 0
+    },
+    "head_pose=2,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_2",
+      "y": 0
+    },
+    "head_pose=3,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_-1",
+      "y": 90
+    },
+    "head_pose=4,charge_level=1": {
+      "model": "slimefun:block/capacitor_50",
+      "y": 90
+    },
+    "head_pose=5,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_1",
+      "y": 90
+    },
+    "head_pose=6,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_2",
+      "y": 90
+    },
+    "head_pose=7,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_-1",
+      "y": 180
+    },
+    "head_pose=8,charge_level=1": {
+      "model": "slimefun:block/capacitor_50",
+      "y": 180
+    },
+    "head_pose=9,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_1",
+      "y": 180
+    },
+    "head_pose=10,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_2",
+      "y": 180
+    },
+    "head_pose=11,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_-1",
+      "y": 270
+    },
+    "head_pose=12,charge_level=1": {
+      "model": "slimefun:block/capacitor_50",
+      "y": 270
+    },
+    "head_pose=13,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_1",
+      "y": 270
+    },
+    "head_pose=14,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_2",
+      "y": 270
+    },
+    "head_pose=15,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_turn_-1",
+      "y": 0
+    },
+    "head_pose=16,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_wall",
+      "y": 0
+    },
+    "head_pose=17,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_wall",
+      "y": 90
+    },
+    "head_pose=18,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_wall",
+      "y": 180
+    },
+    "head_pose=19,charge_level=1": {
+      "model": "slimefun:block/capacitor_50_wall",
+      "y": 270
+    },
+    "head_pose=0,charge_level=2": {
+      "model": "slimefun:block/capacitor_75",
+      "y": 0
+    },
+    "head_pose=1,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_1",
+      "y": 0
+    },
+    "head_pose=2,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_2",
+      "y": 0
+    },
+    "head_pose=3,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_-1",
+      "y": 90
+    },
+    "head_pose=4,charge_level=2": {
+      "model": "slimefun:block/capacitor_75",
+      "y": 90
+    },
+    "head_pose=5,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_1",
+      "y": 90
+    },
+    "head_pose=6,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_2",
+      "y": 90
+    },
+    "head_pose=7,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_-1",
+      "y": 180
+    },
+    "head_pose=8,charge_level=2": {
+      "model": "slimefun:block/capacitor_75",
+      "y": 180
+    },
+    "head_pose=9,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_1",
+      "y": 180
+    },
+    "head_pose=10,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_2",
+      "y": 180
+    },
+    "head_pose=11,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_-1",
+      "y": 270
+    },
+    "head_pose=12,charge_level=2": {
+      "model": "slimefun:block/capacitor_75",
+      "y": 270
+    },
+    "head_pose=13,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_1",
+      "y": 270
+    },
+    "head_pose=14,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_2",
+      "y": 270
+    },
+    "head_pose=15,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_turn_-1",
+      "y": 0
+    },
+    "head_pose=16,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_wall",
+      "y": 0
+    },
+    "head_pose=17,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_wall",
+      "y": 90
+    },
+    "head_pose=18,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_wall",
+      "y": 180
+    },
+    "head_pose=19,charge_level=2": {
+      "model": "slimefun:block/capacitor_75_wall",
+      "y": 270
+    },
+    "head_pose=0,charge_level=3": {
+      "model": "slimefun:block/capacitor_100",
+      "y": 0
+    },
+    "head_pose=1,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_1",
+      "y": 0
+    },
+    "head_pose=2,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_2",
+      "y": 0
+    },
+    "head_pose=3,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_-1",
+      "y": 90
+    },
+    "head_pose=4,charge_level=3": {
+      "model": "slimefun:block/capacitor_100",
+      "y": 90
+    },
+    "head_pose=5,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_1",
+      "y": 90
+    },
+    "head_pose=6,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_2",
+      "y": 90
+    },
+    "head_pose=7,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_-1",
+      "y": 180
+    },
+    "head_pose=8,charge_level=3": {
+      "model": "slimefun:block/capacitor_100",
+      "y": 180
+    },
+    "head_pose=9,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_1",
+      "y": 180
+    },
+    "head_pose=10,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_2",
+      "y": 180
+    },
+    "head_pose=11,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_-1",
+      "y": 270
+    },
+    "head_pose=12,charge_level=3": {
+      "model": "slimefun:block/capacitor_100",
+      "y": 270
+    },
+    "head_pose=13,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_1",
+      "y": 270
+    },
+    "head_pose=14,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_2",
+      "y": 270
+    },
+    "head_pose=15,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_turn_-1",
+      "y": 0
+    },
+    "head_pose=16,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_wall",
+      "y": 0
+    },
+    "head_pose=17,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_wall",
+      "y": 90
+    },
+    "head_pose=18,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_wall",
+      "y": 180
+    },
+    "head_pose=19,charge_level=3": {
+      "model": "slimefun:block/capacitor_100_wall",
+      "y": 270
+    }
+  }
+}

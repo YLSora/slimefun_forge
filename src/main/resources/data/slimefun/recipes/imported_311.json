@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:brass_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:orange_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:brass_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:power_crystal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tin_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:power_crystal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:brass_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:orange_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:brass_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:android_memory_core",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1876
+}

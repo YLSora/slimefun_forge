@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blank_rune",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ancient_rune_ender",
+    "count": 6
+  },
+  "shaped": false,
+  "source_line": 2036
+}

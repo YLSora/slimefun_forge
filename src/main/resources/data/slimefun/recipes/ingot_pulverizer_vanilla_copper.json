@@ -1,0 +1,8 @@
+{
+  "type": "slimefun:machine",
+  "station": "ingot_pulverizer",
+  "inputs": [{"item": "minecraft:copper_ingot"}],
+  "result": {"item": "slimefun:copper_dust"},
+  "shaped": false,
+  "ticks": 60
+}

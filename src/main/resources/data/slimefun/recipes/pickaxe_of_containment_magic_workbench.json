@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:pickaxe_of_containment",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1067
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "item": "slimefun:gold_4k"
+      }
+    ],
+    "X": {
+      "item": "minecraft:apple"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:golden_apple"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "auto_drier",
+  "inputs": [
+    {
+      "item": "minecraft:water_bucket",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 120
+}

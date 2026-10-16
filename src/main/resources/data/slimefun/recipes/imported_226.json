@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_wire",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_motor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1378
+}

@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:nether_brick",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_pan",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:nether_gold_pan",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 409
+}

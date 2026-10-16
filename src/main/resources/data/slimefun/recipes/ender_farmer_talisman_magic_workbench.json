@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:farmer_talisman",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ender_farmer_talisman",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 868
+}

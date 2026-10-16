@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:common_talisman",
+      "count": 1
+    },
+    {
+      "item": "slimefun:monster_jerky",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:hunter_talisman",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 874
+}

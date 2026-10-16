@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_brass_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_brass_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:produce_collector",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2700
+}

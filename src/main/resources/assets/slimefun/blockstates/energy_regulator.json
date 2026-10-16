@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "head_pose=0": {
+      "model": "slimefun:block/energy_regulator",
+      "y": 0
+    },
+    "head_pose=1": {
+      "model": "slimefun:block/energy_regulator_turn_1",
+      "y": 0
+    },
+    "head_pose=2": {
+      "model": "slimefun:block/energy_regulator_turn_2",
+      "y": 0
+    },
+    "head_pose=3": {
+      "model": "slimefun:block/energy_regulator_turn_-1",
+      "y": 90
+    },
+    "head_pose=4": {
+      "model": "slimefun:block/energy_regulator",
+      "y": 90
+    },
+    "head_pose=5": {
+      "model": "slimefun:block/energy_regulator_turn_1",
+      "y": 90
+    },
+    "head_pose=6": {
+      "model": "slimefun:block/energy_regulator_turn_2",
+      "y": 90
+    },
+    "head_pose=7": {
+      "model": "slimefun:block/energy_regulator_turn_-1",
+      "y": 180
+    },
+    "head_pose=8": {
+      "model": "slimefun:block/energy_regulator",
+      "y": 180
+    },
+    "head_pose=9": {
+      "model": "slimefun:block/energy_regulator_turn_1",
+      "y": 180
+    },
+    "head_pose=10": {
+      "model": "slimefun:block/energy_regulator_turn_2",
+      "y": 180
+    },
+    "head_pose=11": {
+      "model": "slimefun:block/energy_regulator_turn_-1",
+      "y": 270
+    },
+    "head_pose=12": {
+      "model": "slimefun:block/energy_regulator",
+      "y": 270
+    },
+    "head_pose=13": {
+      "model": "slimefun:block/energy_regulator_turn_1",
+      "y": 270
+    },
+    "head_pose=14": {
+      "model": "slimefun:block/energy_regulator_turn_2",
+      "y": 270
+    },
+    "head_pose=15": {
+      "model": "slimefun:block/energy_regulator_turn_-1",
+      "y": 0
+    },
+    "head_pose=16": {
+      "model": "slimefun:block/energy_regulator_wall",
+      "y": 0
+    },
+    "head_pose=17": {
+      "model": "slimefun:block/energy_regulator_wall",
+      "y": 90
+    },
+    "head_pose=18": {
+      "model": "slimefun:block/energy_regulator_wall",
+      "y": 180
+    },
+    "head_pose=19": {
+      "model": "slimefun:block/energy_regulator_wall",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:solder_multi_tool",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 738
+}

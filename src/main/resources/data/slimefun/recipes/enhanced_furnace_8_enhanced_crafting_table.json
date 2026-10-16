@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:basic_circuit_board",
+      "count": 1
+    },
+    {
+      "item": "slimefun:enhanced_furnace_7",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:enhanced_furnace_8",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1350
+}

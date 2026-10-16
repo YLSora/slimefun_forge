@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_air",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_earth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:necrotic_skull",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_fire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_water",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:essence_of_afterlife",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1175
+}

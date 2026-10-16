@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    },
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    },
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cauldron",
+      "count": 1
+    },
+    {
+      "item": "minecraft:oak_slab",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:composter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1100
+}

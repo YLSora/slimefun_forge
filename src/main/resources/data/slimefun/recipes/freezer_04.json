@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "freezer",
+  "inputs": [
+    {
+      "item": "minecraft:blue_ice",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:reactor_collant_cell",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 160
+}

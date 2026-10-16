@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:magical_glass",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 393
+}

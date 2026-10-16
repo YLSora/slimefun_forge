@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/orange_stained_glass",
+  "render_type": "slimefun:glass"
+}

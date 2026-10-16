@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:synthetic_diamond",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:tnt",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:explosive_shovel",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1112
+}

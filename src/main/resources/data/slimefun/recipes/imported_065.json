@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_washer",
+  "inputs": [
+    {
+      "item": "slimefun:sifted_ore",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:silver_dust",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 571
+}

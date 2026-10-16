@@ -1,0 +1,260 @@
+{
+  "variants": {
+    "color=0,facing=north": {
+      "model": "minecraft:block/white_glazed_terracotta",
+      "y": 0
+    },
+    "color=0,facing=east": {
+      "model": "minecraft:block/white_glazed_terracotta",
+      "y": 90
+    },
+    "color=0,facing=south": {
+      "model": "minecraft:block/white_glazed_terracotta",
+      "y": 180
+    },
+    "color=0,facing=west": {
+      "model": "minecraft:block/white_glazed_terracotta",
+      "y": 270
+    },
+    "color=1,facing=north": {
+      "model": "minecraft:block/orange_glazed_terracotta",
+      "y": 0
+    },
+    "color=1,facing=east": {
+      "model": "minecraft:block/orange_glazed_terracotta",
+      "y": 90
+    },
+    "color=1,facing=south": {
+      "model": "minecraft:block/orange_glazed_terracotta",
+      "y": 180
+    },
+    "color=1,facing=west": {
+      "model": "minecraft:block/orange_glazed_terracotta",
+      "y": 270
+    },
+    "color=2,facing=north": {
+      "model": "minecraft:block/magenta_glazed_terracotta",
+      "y": 0
+    },
+    "color=2,facing=east": {
+      "model": "minecraft:block/magenta_glazed_terracotta",
+      "y": 90
+    },
+    "color=2,facing=south": {
+      "model": "minecraft:block/magenta_glazed_terracotta",
+      "y": 180
+    },
+    "color=2,facing=west": {
+      "model": "minecraft:block/magenta_glazed_terracotta",
+      "y": 270
+    },
+    "color=3,facing=north": {
+      "model": "minecraft:block/light_blue_glazed_terracotta",
+      "y": 0
+    },
+    "color=3,facing=east": {
+      "model": "minecraft:block/light_blue_glazed_terracotta",
+      "y": 90
+    },
+    "color=3,facing=south": {
+      "model": "minecraft:block/light_blue_glazed_terracotta",
+      "y": 180
+    },
+    "color=3,facing=west": {
+      "model": "minecraft:block/light_blue_glazed_terracotta",
+      "y": 270
+    },
+    "color=4,facing=north": {
+      "model": "minecraft:block/yellow_glazed_terracotta",
+      "y": 0
+    },
+    "color=4,facing=east": {
+      "model": "minecraft:block/yellow_glazed_terracotta",
+      "y": 90
+    },
+    "color=4,facing=south": {
+      "model": "minecraft:block/yellow_glazed_terracotta",
+      "y": 180
+    },
+    "color=4,facing=west": {
+      "model": "minecraft:block/yellow_glazed_terracotta",
+      "y": 270
+    },
+    "color=5,facing=north": {
+      "model": "minecraft:block/lime_glazed_terracotta",
+      "y": 0
+    },
+    "color=5,facing=east": {
+      "model": "minecraft:block/lime_glazed_terracotta",
+      "y": 90
+    },
+    "color=5,facing=south": {
+      "model": "minecraft:block/lime_glazed_terracotta",
+      "y": 180
+    },
+    "color=5,facing=west": {
+      "model": "minecraft:block/lime_glazed_terracotta",
+      "y": 270
+    },
+    "color=6,facing=north": {
+      "model": "minecraft:block/pink_glazed_terracotta",
+      "y": 0
+    },
+    "color=6,facing=east": {
+      "model": "minecraft:block/pink_glazed_terracotta",
+      "y": 90
+    },
+    "color=6,facing=south": {
+      "model": "minecraft:block/pink_glazed_terracotta",
+      "y": 180
+    },
+    "color=6,facing=west": {
+      "model": "minecraft:block/pink_glazed_terracotta",
+      "y": 270
+    },
+    "color=7,facing=north": {
+      "model": "minecraft:block/gray_glazed_terracotta",
+      "y": 0
+    },
+    "color=7,facing=east": {
+      "model": "minecraft:block/gray_glazed_terracotta",
+      "y": 90
+    },
+    "color=7,facing=south": {
+      "model": "minecraft:block/gray_glazed_terracotta",
+      "y": 180
+    },
+    "color=7,facing=west": {
+      "model": "minecraft:block/gray_glazed_terracotta",
+      "y": 270
+    },
+    "color=8,facing=north": {
+      "model": "minecraft:block/light_gray_glazed_terracotta",
+      "y": 0
+    },
+    "color=8,facing=east": {
+      "model": "minecraft:block/light_gray_glazed_terracotta",
+      "y": 90
+    },
+    "color=8,facing=south": {
+      "model": "minecraft:block/light_gray_glazed_terracotta",
+      "y": 180
+    },
+    "color=8,facing=west": {
+      "model": "minecraft:block/light_gray_glazed_terracotta",
+      "y": 270
+    },
+    "color=9,facing=north": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 0
+    },
+    "color=9,facing=east": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 90
+    },
+    "color=9,facing=south": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 180
+    },
+    "color=9,facing=west": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 270
+    },
+    "color=10,facing=north": {
+      "model": "minecraft:block/purple_glazed_terracotta",
+      "y": 0
+    },
+    "color=10,facing=east": {
+      "model": "minecraft:block/purple_glazed_terracotta",
+      "y": 90
+    },
+    "color=10,facing=south": {
+      "model": "minecraft:block/purple_glazed_terracotta",
+      "y": 180
+    },
+    "color=10,facing=west": {
+      "model": "minecraft:block/purple_glazed_terracotta",
+      "y": 270
+    },
+    "color=11,facing=north": {
+      "model": "minecraft:block/blue_glazed_terracotta",
+      "y": 0
+    },
+    "color=11,facing=east": {
+      "model": "minecraft:block/blue_glazed_terracotta",
+      "y": 90
+    },
+    "color=11,facing=south": {
+      "model": "minecraft:block/blue_glazed_terracotta",
+      "y": 180
+    },
+    "color=11,facing=west": {
+      "model": "minecraft:block/blue_glazed_terracotta",
+      "y": 270
+    },
+    "color=12,facing=north": {
+      "model": "minecraft:block/brown_glazed_terracotta",
+      "y": 0
+    },
+    "color=12,facing=east": {
+      "model": "minecraft:block/brown_glazed_terracotta",
+      "y": 90
+    },
+    "color=12,facing=south": {
+      "model": "minecraft:block/brown_glazed_terracotta",
+      "y": 180
+    },
+    "color=12,facing=west": {
+      "model": "minecraft:block/brown_glazed_terracotta",
+      "y": 270
+    },
+    "color=13,facing=north": {
+      "model": "minecraft:block/green_glazed_terracotta",
+      "y": 0
+    },
+    "color=13,facing=east": {
+      "model": "minecraft:block/green_glazed_terracotta",
+      "y": 90
+    },
+    "color=13,facing=south": {
+      "model": "minecraft:block/green_glazed_terracotta",
+      "y": 180
+    },
+    "color=13,facing=west": {
+      "model": "minecraft:block/green_glazed_terracotta",
+      "y": 270
+    },
+    "color=14,facing=north": {
+      "model": "minecraft:block/red_glazed_terracotta",
+      "y": 0
+    },
+    "color=14,facing=east": {
+      "model": "minecraft:block/red_glazed_terracotta",
+      "y": 90
+    },
+    "color=14,facing=south": {
+      "model": "minecraft:block/red_glazed_terracotta",
+      "y": 180
+    },
+    "color=14,facing=west": {
+      "model": "minecraft:block/red_glazed_terracotta",
+      "y": 270
+    },
+    "color=15,facing=north": {
+      "model": "minecraft:block/black_glazed_terracotta",
+      "y": 0
+    },
+    "color=15,facing=east": {
+      "model": "minecraft:block/black_glazed_terracotta",
+      "y": 90
+    },
+    "color=15,facing=south": {
+      "model": "minecraft:block/black_glazed_terracotta",
+      "y": 180
+    },
+    "color=15,facing=west": {
+      "model": "minecraft:block/black_glazed_terracotta",
+      "y": 270
+    }
+  }
+}

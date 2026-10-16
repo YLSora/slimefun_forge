@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "compressor",
+  "inputs": [
+    {
+      "item": "minecraft:flint",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  },
+  "shaped": false
+}

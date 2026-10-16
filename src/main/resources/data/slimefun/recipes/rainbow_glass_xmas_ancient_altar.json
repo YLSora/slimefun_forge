@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:red_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:christmas_cookie",
+      "count": 1
+    },
+    {
+      "item": "minecraft:green_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_rainbow",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:green_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:christmas_cookie",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rainbow_glass_xmas",
+    "count": 2
+  },
+  "shaped": false,
+  "source_line": 2124
+}

@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:ender_lump_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 330
+}

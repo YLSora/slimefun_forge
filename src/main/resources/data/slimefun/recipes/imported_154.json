@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:vitamins",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heavy_cream",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:medicine",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1058
+}

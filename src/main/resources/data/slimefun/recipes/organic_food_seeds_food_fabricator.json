@@ -1,0 +1,20 @@
+{
+  "type": "slimefun:machine",
+  "station": "food_fabricator",
+  "inputs": [
+    {
+      "item": "slimefun:can",
+      "count": 1
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:organic_food_seeds",
+    "count": 2
+  },
+  "shaped": false,
+  "ticks": 240
+}

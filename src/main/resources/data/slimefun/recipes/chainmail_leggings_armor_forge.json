@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:chainmail_leggings",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 936
+}

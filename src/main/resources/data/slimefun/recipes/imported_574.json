@@ -1,0 +1,25 @@
+{
+  "type": "slimefun:machine",
+  "station": "ingot_factory",
+  "inputs": [
+    {
+      "item": "slimefun:lead_dust",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:lead_ingot",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 603,
+  "ticks": 160
+}

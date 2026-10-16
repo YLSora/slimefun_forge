@@ -1,0 +1,28 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    {
+      "item": "slimefun:plutonium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:uranium",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:boosted_uranium",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2512,
+  "ticks": 1800
+}

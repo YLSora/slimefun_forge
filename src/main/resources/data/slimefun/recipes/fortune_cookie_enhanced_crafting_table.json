@@ -1,0 +1,27 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:cookie",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:fortune_cookie",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 253
+}

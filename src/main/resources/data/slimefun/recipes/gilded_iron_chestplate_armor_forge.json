@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gilded_iron_chestplate",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 971
+}

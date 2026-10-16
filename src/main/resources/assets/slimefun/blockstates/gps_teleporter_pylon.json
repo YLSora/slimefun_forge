@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "purple=true": {
+      "model": "slimefun:block/gps_teleporter_pylon"
+    },
+    "purple=false": {
+      "model": "slimefun:block/gps_teleporter_pylon_cyan"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lime_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lime_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:coal_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:night_vision_goggles",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1062
+}

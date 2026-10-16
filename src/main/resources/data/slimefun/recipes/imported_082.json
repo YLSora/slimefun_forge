@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:flint",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:carbon_chunk",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 639
+}

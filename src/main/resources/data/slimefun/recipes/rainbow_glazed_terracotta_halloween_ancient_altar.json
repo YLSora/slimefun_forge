@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:orange_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_rainbow",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "count": 1
+    },
+    {
+      "item": "minecraft:orange_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rainbow_glazed_terracotta_halloween",
+    "count": 2
+  },
+  "shaped": false,
+  "source_line": 2208
+}

@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:farmer_shoes",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1104
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:gold_18k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:can",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_18k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:food_fabricator",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:auto_breeder",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2371
+}

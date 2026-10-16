@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    {
+      "item": "slimefun:hook",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:grappling_hook",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 709
+}

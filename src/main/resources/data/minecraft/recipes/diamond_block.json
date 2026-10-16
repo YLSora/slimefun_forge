@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:diamond"
+      },
+      {
+        "item": "slimefun:synthetic_diamond"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:diamond_block"
+  },
+  "show_notification": true
+}

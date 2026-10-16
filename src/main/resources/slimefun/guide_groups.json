@@ -1,0 +1,204 @@
+[
+  {
+    "id": "weapons",
+    "key": "weapons",
+    "icon": "blade_of_vampires",
+    "tier": 1,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "tools",
+    "key": "tools",
+    "icon": "smelters_pickaxe",
+    "tier": 1,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "usefulItems",
+    "key": "items",
+    "icon": "medium_backpack",
+    "tier": 1,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "basicMachines",
+    "key": "basic_machines",
+    "icon": "enhanced_crafting_table",
+    "tier": 1,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "resources",
+    "key": "resources",
+    "icon": "synthetic_sapphire",
+    "tier": 1,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "christmas",
+    "key": "christmas",
+    "icon": "christmas_present",
+    "tier": 1,
+    "parents": [],
+    "month": 12
+  },
+  {
+    "id": "birthday",
+    "key": "birthday",
+    "icon": "minecraft:firework_rocket",
+    "tier": 1,
+    "parents": [],
+    "month": 10
+  },
+  {
+    "id": "halloween",
+    "key": "halloween",
+    "icon": "minecraft:jack_o_lantern",
+    "tier": 1,
+    "parents": [],
+    "month": 10
+  },
+  {
+    "id": "food",
+    "key": "food",
+    "icon": "fortune_cookie",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "armor",
+    "key": "armor",
+    "icon": "damascus_steel_chestplate",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "magicalResources",
+    "key": "magical_items",
+    "icon": "ancient_rune_ender",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "magicalArmor",
+    "key": "magical_armor",
+    "icon": "ender_helmet",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "misc",
+    "key": "misc",
+    "icon": "can",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "technicalComponents",
+    "key": "tech_misc",
+    "icon": "heating_coil",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "valentinesDay",
+    "key": "valentines_day",
+    "icon": "minecraft:poppy",
+    "tier": 2,
+    "parents": [],
+    "month": 2
+  },
+  {
+    "id": "easter",
+    "key": "easter",
+    "icon": "easter_egg",
+    "tier": 2,
+    "parents": [],
+    "month": 4
+  },
+  {
+    "id": "talismans",
+    "key": "talismans",
+    "icon": "common_talisman",
+    "tier": 2,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "magicalGadgets",
+    "key": "magical_gadgets",
+    "icon": "infused_elytra",
+    "tier": 3,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "technicalGadgets",
+    "key": "technical_gadgets",
+    "icon": "steel_jetpack",
+    "tier": 3,
+    "parents": [],
+    "month": 0
+  },
+  {
+    "id": "ender_talismans",
+    "key": "ender_talismans",
+    "icon": "ender_talisman",
+    "tier": 3,
+    "parents": [
+      "talismans"
+    ],
+    "month": 0
+  },
+  {
+    "id": "electricity",
+    "key": "electricity",
+    "icon": "nuclear_reactor",
+    "tier": 4,
+    "parents": [
+      "basicMachines"
+    ],
+    "month": 0
+  },
+  {
+    "id": "androids",
+    "key": "androids",
+    "icon": "programmable_android",
+    "tier": 4,
+    "parents": [
+      "basicMachines"
+    ],
+    "month": 0
+  },
+  {
+    "id": "cargo",
+    "key": "cargo",
+    "icon": "cargo_manager",
+    "tier": 4,
+    "parents": [
+      "basicMachines"
+    ],
+    "month": 0
+  },
+  {
+    "id": "gps",
+    "key": "gps",
+    "icon": "gps_transmitter",
+    "tier": 4,
+    "parents": [
+      "basicMachines"
+    ],
+    "month": 0
+  }
+]

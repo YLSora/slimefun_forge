@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:cactus",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:cactus",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cactus",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:cactus",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:cactus_boots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 473
+}

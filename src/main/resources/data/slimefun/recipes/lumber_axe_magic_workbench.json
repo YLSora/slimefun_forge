@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:synthetic_diamond",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_diamond",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:synthetic_emerald",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:lumber_axe",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 950
+}

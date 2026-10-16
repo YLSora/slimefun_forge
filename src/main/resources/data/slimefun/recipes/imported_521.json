@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:magic_lump_1",
+    "count": 4
+  },
+  "shaped": false
+}

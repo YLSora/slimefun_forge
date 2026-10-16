@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/green_stained_glass_pane_noside_alt",
+  "render_type": "minecraft:translucent"
+}

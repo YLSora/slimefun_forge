@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    null,
+    {
+      "item": "slimefun:lava_crystal",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:staff_elemental_fire",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 727
+}

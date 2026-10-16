@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:honey_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:honey_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:bee_boots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2647
+}

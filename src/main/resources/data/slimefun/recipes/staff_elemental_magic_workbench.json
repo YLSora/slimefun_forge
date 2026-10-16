@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:magical_book_cover",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magical_book_cover",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:staff_elemental",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 715
+}

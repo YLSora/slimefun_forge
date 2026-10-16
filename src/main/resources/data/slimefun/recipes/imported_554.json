@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "minecraft:raw_gold",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gold_dust",
+    "count": 1
+  },
+  "shaped": false,
+  "ore_doubling": false
+}

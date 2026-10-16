@@ -1,0 +1,27 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "minecraft:cookie",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:diet_cookie",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 257
+}

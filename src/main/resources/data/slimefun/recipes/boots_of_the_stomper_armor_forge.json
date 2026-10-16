@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:yellow_wool",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:yellow_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:boots_of_the_stomper",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1121
+}

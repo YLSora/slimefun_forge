@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "freezer",
+  "inputs": [
+    {
+      "item": "minecraft:snow_block",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "minecraft:ice",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 120
+}

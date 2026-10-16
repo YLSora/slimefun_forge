@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:battery",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "item": "slimefun:battery",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:small_capacitor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:charging_bench",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1608
+}

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:silver_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:packed_ice",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cooling_unit",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cooling_unit",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:freezer",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2474
+}

@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:reinforced_alloy_ingot",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 475
+}

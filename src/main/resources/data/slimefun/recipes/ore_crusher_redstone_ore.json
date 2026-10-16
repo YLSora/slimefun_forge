@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "minecraft:redstone_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 8
+  },
+  "shaped": false,
+  "ore_doubling": true
+}

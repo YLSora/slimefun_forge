@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ancient_pedestal",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 1545
+}

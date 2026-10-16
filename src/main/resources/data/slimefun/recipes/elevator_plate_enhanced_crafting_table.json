@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:stone_pressure_plate",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:elevator_plate",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 2319
+}

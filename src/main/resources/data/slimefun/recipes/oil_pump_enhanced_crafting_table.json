@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:oil_pump",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2226
+}

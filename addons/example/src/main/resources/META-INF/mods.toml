@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="GPL-3.0-only"
+[[mods]]
+modId="sf_example"
+version="1.0.0"
+displayName="Slimefun Addon Example"
+authors="MinazukiSora"
+description="Independent guide, research, recipe and processing event example."
+[[dependencies.sf_example]]
+modId="forge"
+mandatory=true
+versionRange="[47.4,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sf_example]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sf_example]]
+modId="slimefun"
+mandatory=true
+versionRange="[1.0.0]"
+ordering="AFTER"
+side="BOTH"

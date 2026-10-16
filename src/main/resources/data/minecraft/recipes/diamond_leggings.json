@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": [
+      {
+        "tag": "forge:gems/diamond"
+      },
+      {
+        "item": "slimefun:synthetic_diamond"
+      }
+    ]
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "show_notification": true
+}

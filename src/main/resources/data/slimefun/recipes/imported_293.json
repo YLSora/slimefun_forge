@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:coal_generator",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1762
+}

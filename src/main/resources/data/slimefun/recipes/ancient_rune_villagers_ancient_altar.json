@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magical_glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:strange_nether_goo",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_fire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:strange_nether_goo",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magical_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ancient_rune_villagers",
+    "count": 3
+  },
+  "shaped": false,
+  "source_line": 2653
+}

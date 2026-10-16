@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "slimefun:steel_plate",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 320
+}

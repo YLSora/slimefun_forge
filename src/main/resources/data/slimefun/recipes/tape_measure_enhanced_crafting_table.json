@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:string",
+      "count": 1
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gilded_iron",
+      "count": 1
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:tape_measure",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2629
+}

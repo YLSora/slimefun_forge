@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="GPL-3.0-only"
+[[mods]]
+modId="sf_blank"
+version="1.0.0"
+displayName="My Slimefun Addon"
+authors="Your name"
+description="Independent Slimefun addon template."
+[[dependencies.sf_blank]]
+modId="forge"
+mandatory=true
+versionRange="[47.4,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sf_blank]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sf_blank]]
+modId="slimefun"
+mandatory=true
+versionRange="[1.0.0]"
+ordering="AFTER"
+side="BOTH"

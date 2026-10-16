@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:basic_circuit_board",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:android_interface_fuel",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1956
+}

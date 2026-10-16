@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:boosted_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado_edged_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:boosted_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:netherstar_reactor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2531
+}

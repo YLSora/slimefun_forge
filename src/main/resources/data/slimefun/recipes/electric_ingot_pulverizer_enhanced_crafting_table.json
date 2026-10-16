@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:electric_ore_grinder",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_ingot_pulverizer",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1755
+}

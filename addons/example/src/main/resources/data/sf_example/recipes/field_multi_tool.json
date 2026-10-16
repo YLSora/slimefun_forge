@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":[" R "," I "," S "],"key":{"R":{"item":"minecraft:redstone"},"I":{"item":"minecraft:iron_ingot"},"S":{"item":"minecraft:stick"}},"result":{"item":"sf_example:field_multi_tool"}}

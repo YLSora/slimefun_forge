@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:flint_and_steel",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:basic_circuit_board",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:observer",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:ignition_chamber",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 420
+}

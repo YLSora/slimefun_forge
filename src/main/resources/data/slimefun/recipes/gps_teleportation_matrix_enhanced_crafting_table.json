@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:gps_teleporter_pylon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_teleporter_pylon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_control_panel",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_teleporter_pylon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_teleporter_pylon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gps_teleportation_matrix",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2282
+}

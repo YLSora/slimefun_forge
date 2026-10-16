@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gps_teleporter_pylon",
+    "count": 8
+  },
+  "shaped": true,
+  "source_line": 2277
+}

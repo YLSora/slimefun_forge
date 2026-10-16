@@ -1,0 +1,1348 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "color": "0"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "0",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_white_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "1"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "1",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_orange_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "2"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "2",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_magenta_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "3"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "3",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_blue_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "4"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "4",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_yellow_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "5"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "5",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_lime_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "6"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "6",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_pink_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "7"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "7",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_gray_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "8"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "8",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_light_gray_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "9"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "9",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_cyan_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "10"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "10",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_purple_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "11"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "11",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_blue_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "12"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "12",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_brown_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "13"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "13",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_green_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "14"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "14",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_red_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "15"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_post"
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "north": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_side"
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "east": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "south": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_side_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "west": "true"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "north": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_noside"
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "east": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_noside",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "south": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "color": "15",
+        "west": "false"
+      },
+      "apply": {
+        "model": "slimefun:block/rainbow_black_stained_glass_pane_noside_alt",
+        "y": 90
+      }
+    }
+  ]
+}

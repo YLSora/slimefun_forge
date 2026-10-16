@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "slimefun:small_uranium",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "slimefun:uranium",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 480
+}

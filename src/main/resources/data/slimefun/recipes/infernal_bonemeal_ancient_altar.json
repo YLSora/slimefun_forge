@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:nether_wart",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_earth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:bone_meal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:infernal_bonemeal",
+    "count": 8
+  },
+  "shaped": false,
+  "source_line": 2058
+}

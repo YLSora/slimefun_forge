@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cargo_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:crafting_motor",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 2677
+}

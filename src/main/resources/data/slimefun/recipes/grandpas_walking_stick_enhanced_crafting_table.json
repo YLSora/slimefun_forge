@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:oak_log",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:oak_log",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:grandpas_walking_stick",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 245
+}

@@ -1,0 +1,60 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.54'
+    id 'org.spongepowered.mixin' version '0.7.38'
+}
+
+group = 'io.github.slimefun4'
+version = '1.0.0'
+base.archivesName = 'slimefun-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+java.withSourcesJar()
+def runtimeRoot = file('run')
+
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            property 'forge.logging.console.level', 'info'
+            mods { slimefun { source sourceSets.main } }
+        }
+        client {
+            workingDirectory new File(runtimeRoot, 'client')
+        }
+        server {
+            workingDirectory new File(runtimeRoot, 'server')
+            args '--nogui'
+        }
+    }
+}
+
+dependencies {
+    minecraft "net.minecraftforge:forge:1.20.1-${findProperty('forge_version')}"
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+}
+
+mixin {
+    add sourceSets.main, 'slimefun.refmap.json'
+    config 'slimefun.mixins.json'
+}
+
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.named('compileJava', JavaCompile) {
+    // Mixin refmaps aggregate every annotated class in the source set.
+    options.incremental = false
+    outputs.file(layout.buildDirectory.file('tmp/compileJava/compileJava-refmap.json'))
+}
+
+tasks.withType(AbstractArchiveTask).configureEach {
+    preserveFileTimestamps = false
+    reproducibleFileOrder = true
+}
+
+tasks.named('jar', Jar) {
+    from('LICENSE')
+    from('AUTHORS.md')
+    from('CREDITS.txt')
+    manifest.attributes('Implementation-Version': project.version, 'Slimefun-Baseline': 'RC-37/070d72f9ea2eb4dc29c13da10eeaa2612394fecd',
+        'Slimefun-Source-SHA256': project.findProperty('source_sha256') ?: 'UNVERIFIED')
+    finalizedBy 'reobfJar'
+}

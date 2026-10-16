@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:refinery",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2252
+}

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_plate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:fire_charge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_plate",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:steel_thruster",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 643
+}

@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.54'
+}
+group = 'io.github.slimefun4.addons'
+version = '1.0.0'
+base.archivesName = 'sf-example'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+java.withSourcesJar()
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        client { workingDirectory file('run'); mods { sf_example { source sourceSets.main } } }
+        server { workingDirectory file('run'); args '--nogui'; mods { sf_example { source sourceSets.main } } }
+    }
+}
+repositories { flatDir { dirs 'libs' } }
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.10'
+    implementation fg.deobf('io.github.slimefun4:slimefun-forge-1.20.1:1.0.0')
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.withType(AbstractArchiveTask).configureEach { preserveFileTimestamps = false; reproducibleFileOrder = true }
+tasks.named('jar') { from('LICENSE'); finalizedBy 'reobfJar' }

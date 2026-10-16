@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:gps_transmitter_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:diamond_sword",
+      "count": 1
+    },
+    {
+      "item": "slimefun:programmable_android_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:programmable_android_3_butcher",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2008
+}

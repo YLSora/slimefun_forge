@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:carbon",
+    "count": 4
+  },
+  "shaped": false
+}

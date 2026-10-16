@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "minecraft:compass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_marker_tool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solder_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:portable_geo_scanner",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2222
+}

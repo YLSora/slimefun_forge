@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:power_crystal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_thruster",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_thruster",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:steel_jetboots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1203
+}

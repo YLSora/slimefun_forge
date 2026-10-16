@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:small_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_uranium",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:small_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_uranium",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:uranium",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1017
+}

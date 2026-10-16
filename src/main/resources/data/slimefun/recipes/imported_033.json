@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:book",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:magical_book_cover",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 389
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "sf_example:ward_talisman"
+    }
+  ],
+  "result": {
+    "item": "sf_example:ender_ward_talisman"
+  }
+}

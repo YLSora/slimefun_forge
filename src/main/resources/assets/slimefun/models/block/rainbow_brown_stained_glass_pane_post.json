@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/brown_stained_glass_pane_post",
+  "render_type": "minecraft:translucent"
+}

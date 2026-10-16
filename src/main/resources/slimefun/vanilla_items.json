@@ -1,0 +1,42 @@
+[
+  {
+    "id": "chain_helmet",
+    "material": "chainmail_helmet",
+    "group": "armor"
+  },
+  {
+    "id": "chain_chestplate",
+    "material": "chainmail_chestplate",
+    "group": "armor"
+  },
+  {
+    "id": "chain_leggings",
+    "material": "chainmail_leggings",
+    "group": "armor"
+  },
+  {
+    "id": "chain_boots",
+    "material": "chainmail_boots",
+    "group": "armor"
+  },
+  {
+    "id": "enchanted_golden_apple",
+    "material": "enchanted_golden_apple",
+    "group": "food"
+  },
+  {
+    "id": "elytra",
+    "material": "elytra",
+    "group": "magicalGadgets"
+  },
+  {
+    "id": "trident",
+    "material": "trident",
+    "group": "magicalGadgets"
+  },
+  {
+    "id": "totem_of_undying",
+    "material": "totem_of_undying",
+    "group": "magicalGadgets"
+  }
+]

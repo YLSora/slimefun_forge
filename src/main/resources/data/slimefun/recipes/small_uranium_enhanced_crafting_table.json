@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    },
+    {
+      "item": "slimefun:tiny_uranium",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:small_uranium",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1013
+}

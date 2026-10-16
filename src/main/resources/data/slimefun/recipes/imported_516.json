@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:nether_wart_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 9
+  },
+  "shaped": false
+}

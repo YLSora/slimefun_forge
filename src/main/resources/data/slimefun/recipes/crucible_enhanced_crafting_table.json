@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    },
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    },
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    },
+    {
+      "item": "minecraft:flint_and_steel",
+      "count": 1
+    },
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:crucible",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1145
+}

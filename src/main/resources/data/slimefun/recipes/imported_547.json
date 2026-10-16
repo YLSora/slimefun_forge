@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "minecraft:cobbled_deepslate",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "minecraft:sand",
+    "count": 1
+  },
+  "shaped": false
+}

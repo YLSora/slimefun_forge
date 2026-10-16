@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": ["#minecraft:shulker_boxes", "minecraft:chest", "minecraft:trapped_chest", "minecraft:barrel", "slimefun:output_chest"]
+}

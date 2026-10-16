@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:iron_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:damascus_steel_ingot",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 483
+}

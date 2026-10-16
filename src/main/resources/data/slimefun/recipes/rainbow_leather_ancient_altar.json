@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:emerald",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:rabbit_hide",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_rainbow",
+      "count": 1
+    },
+    {
+      "item": "minecraft:rabbit_hide",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "minecraft:emerald",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rainbow_leather",
+    "count": 4
+  },
+  "shaped": false,
+  "source_line": 2672
+}

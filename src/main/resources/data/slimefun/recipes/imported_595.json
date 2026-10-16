@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "minecraft:nether_wart",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:magic_lump_1",
+    "count": 2
+  },
+  "shaped": false,
+  "ticks": 160
+}

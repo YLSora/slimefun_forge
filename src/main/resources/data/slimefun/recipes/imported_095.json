@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:chain",
+    "count": 8
+  },
+  "shaped": true,
+  "source_line": 700
+}

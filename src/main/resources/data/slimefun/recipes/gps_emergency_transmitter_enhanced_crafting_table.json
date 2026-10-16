@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:gps_transmitter",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:gps_emergency_transmitter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1948
+}

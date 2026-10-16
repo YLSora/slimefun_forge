@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:duralumin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:hardened_metal_ingot",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 479
+}

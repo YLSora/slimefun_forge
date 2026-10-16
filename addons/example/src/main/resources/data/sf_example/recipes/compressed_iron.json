@@ -1,0 +1,1 @@
+{"type":"slimefun:machine","station":"electric_press","inputs":[{"item":"minecraft:iron_ingot","count":4}],"result":{"item":"sf_example:compressed_iron"},"ticks":80}

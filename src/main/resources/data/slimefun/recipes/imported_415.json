@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:hopper",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cargo_node",
+      "count": 1
+    },
+    {
+      "item": "slimefun:billon_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:hopper",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:cargo_node_input",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 2560
+}

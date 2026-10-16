@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "slimefun:ancient_rune_ender",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:broken_spawner",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    {
+      "item": "slimefun:filled_flask_of_knowledge",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_ender",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:reinforced_spawner",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1318
+}

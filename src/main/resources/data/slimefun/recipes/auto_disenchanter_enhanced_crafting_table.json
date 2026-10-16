@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:anvil",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:auto_enchanter",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:auto_disenchanter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1832
+}

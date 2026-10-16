@@ -1,0 +1,25 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    {
+      "item": "slimefun:enriched_nether_ice",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:nether_ice_coolant_cell",
+    "count": 8
+  },
+  "shaped": false,
+  "source_line": 2499,
+  "ticks": 900
+}

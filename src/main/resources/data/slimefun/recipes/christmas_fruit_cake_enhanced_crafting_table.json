@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:egg",
+      "count": 1
+    },
+    {
+      "item": "minecraft:apple",
+      "count": 1
+    },
+    {
+      "item": "minecraft:melon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:sugar",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:christmas_fruit_cake",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 1449
+}

@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:climbing_pick",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1236
+}

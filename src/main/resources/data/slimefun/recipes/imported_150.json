@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:rag",
+      "count": 1
+    },
+    {
+      "item": "minecraft:string",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rag",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:bandage",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 1039
+}

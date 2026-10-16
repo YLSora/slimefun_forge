@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:food_fabricator",
+      "count": 1
+    },
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:can",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:can",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:food_composter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2387
+}

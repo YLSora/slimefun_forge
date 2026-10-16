@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "ore_crusher",
+  "inputs": [
+    {
+      "item": "slimefun:gold_10k",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gold_dust",
+    "count": 3
+  },
+  "shaped": false
+}

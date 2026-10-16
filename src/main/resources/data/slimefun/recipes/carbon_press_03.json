@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "carbon_press",
+  "inputs": [
+    {
+      "item": "slimefun:carbon",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "slimefun:compressed_carbon",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 600
+}

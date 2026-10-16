@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "auto_drier",
+  "inputs": [
+    {
+      "item": "minecraft:cooked_beef",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:beef_jerky",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 120
+}

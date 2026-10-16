@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:enchanting_table",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ancient_altar",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1550
+}

@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:emerald",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:emerald",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:blaze_rod",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:sword_of_beheading",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 385
+}

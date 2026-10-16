@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:duralumin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:sulfate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:duralumin_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:energy_connector",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:duralumin_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:duralumin_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:small_capacitor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1568
+}

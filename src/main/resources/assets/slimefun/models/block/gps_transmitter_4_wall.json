@@ -1,0 +1,147 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "slimefun:head",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "skin": "slimefun:block/heads/b0c9c1a022f40b73f14b4cba37c718c6a533f3a2864b6536d5f456934cc1f",
+    "particle": "slimefun:block/heads/b0c9c1a022f40b73f14b4cba37c718c6a533f3a2864b6536d5f456934cc1f"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        4,
+        8
+      ],
+      "to": [
+        12,
+        12,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            0,
+            4,
+            2
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            4,
+            2,
+            2,
+            0
+          ],
+          "texture": "#skin"
+        },
+        "north": {
+          "uv": [
+            2,
+            2,
+            4,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            6,
+            2,
+            8,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            4,
+            2,
+            6,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            2,
+            4
+          ],
+          "texture": "#skin"
+        }
+      }
+    },
+    {
+      "from": [
+        3.75,
+        3.75,
+        7.75
+      ],
+      "to": [
+        12.25,
+        12.25,
+        16.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            0,
+            12,
+            2
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            12,
+            2,
+            10,
+            0
+          ],
+          "texture": "#skin"
+        },
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            14,
+            2,
+            16,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            12,
+            2,
+            14,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            8,
+            2,
+            10,
+            4
+          ],
+          "texture": "#skin"
+        }
+      }
+    }
+  ]
+}

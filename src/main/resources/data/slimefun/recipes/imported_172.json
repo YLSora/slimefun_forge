@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_16k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:large_backpack",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_16k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:woven_backpack",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1141
+}

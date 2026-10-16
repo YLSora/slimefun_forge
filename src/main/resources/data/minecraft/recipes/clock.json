@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "item": "slimefun:gold_4k"
+      }
+    ],
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:clock"
+  },
+  "show_notification": true
+}

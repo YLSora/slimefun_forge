@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/lime_stained_glass_pane_side",
+  "render_type": "minecraft:translucent"
+}

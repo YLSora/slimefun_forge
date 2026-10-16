@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_rainbow",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_stained_glass_pane",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rainbow_glass_pane",
+    "count": 8
+  },
+  "shaped": false,
+  "source_line": 2097
+}

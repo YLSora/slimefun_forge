@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "item": "slimefun:gold_4k"
+      }
+    ]
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "show_notification": true
+}

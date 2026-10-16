@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:iron_dust",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  },
+  "shaped": false
+}

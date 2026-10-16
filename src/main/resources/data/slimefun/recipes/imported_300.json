@@ -1,0 +1,28 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    {
+      "item": "slimefun:magnesium_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:salt",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:magnesium_salt",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1808,
+  "ticks": 160
+}

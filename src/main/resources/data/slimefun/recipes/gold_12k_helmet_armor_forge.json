@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:gold_12k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_12k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_12k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_12k",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:gold_12k",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:gold_12k_helmet",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1025
+}

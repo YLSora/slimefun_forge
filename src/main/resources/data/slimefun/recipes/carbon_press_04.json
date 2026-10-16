@@ -1,0 +1,20 @@
+{
+  "type": "slimefun:machine",
+  "station": "carbon_press",
+  "inputs": [
+    {
+      "item": "slimefun:carbon_chunk",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_diamond",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:raw_carbonado",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 1200
+}

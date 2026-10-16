@@ -1,0 +1,8 @@
+{
+  "type": "slimefun:machine",
+  "station": "ingot_pulverizer",
+  "inputs": [{"item": "minecraft:gold_ingot"}],
+  "result": {"item": "slimefun:gold_dust"},
+  "shaped": false,
+  "ticks": 60
+}

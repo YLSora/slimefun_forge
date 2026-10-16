@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:auto_enchanter",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_bronze_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:xp_collector",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2383
+}

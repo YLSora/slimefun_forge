@@ -1,0 +1,2315 @@
+[
+  {
+    "id": "walking_sticks",
+    "name": "Walking Sticks",
+    "cost": 1,
+    "items": [
+      "grandmas_walking_stick",
+      "grandpas_walking_stick"
+    ]
+  },
+  {
+    "id": "portable_crafter",
+    "name": "Portable Crafter",
+    "cost": 1,
+    "items": [
+      "portable_crafter"
+    ]
+  },
+  {
+    "id": "fortune_cookie",
+    "name": "Fortune Cookie",
+    "cost": 1,
+    "items": [
+      "fortune_cookie"
+    ]
+  },
+  {
+    "id": "portable_dustbin",
+    "name": "Portable Dustbin",
+    "cost": 2,
+    "items": [
+      "portable_dustbin"
+    ]
+  },
+  {
+    "id": "meat_jerky",
+    "name": "Jerkys",
+    "cost": 2,
+    "items": [
+      "beef_jerky",
+      "fish_jerky",
+      "rabbit_jerky",
+      "mutton_jerky",
+      "chicken_jerky",
+      "pork_jerky"
+    ]
+  },
+  {
+    "id": "armor_forge",
+    "name": "Armor Crafting",
+    "cost": 2,
+    "items": [
+      "armor_forge"
+    ]
+  },
+  {
+    "id": "glowstone_armor",
+    "name": "Glowstone Armor",
+    "cost": 3,
+    "items": [
+      "glowstone_helmet",
+      "glowstone_chestplate",
+      "glowstone_leggings",
+      "glowstone_boots"
+    ]
+  },
+  {
+    "id": "lumps",
+    "name": "Lumps and Magic",
+    "cost": 3,
+    "items": [
+      "magic_lump_1",
+      "magic_lump_2",
+      "magic_lump_3",
+      "ender_lump_1",
+      "ender_lump_2",
+      "ender_lump_3"
+    ]
+  },
+  {
+    "id": "ender_backpack",
+    "name": "Ender Backpack",
+    "cost": 4,
+    "items": [
+      "ender_backpack"
+    ]
+  },
+  {
+    "id": "ender_armor",
+    "name": "Ender Armor",
+    "cost": 4,
+    "items": [
+      "ender_helmet",
+      "ender_chestplate",
+      "ender_leggings",
+      "ender_boots"
+    ]
+  },
+  {
+    "id": "magic_eye_of_ender",
+    "name": "Magic Eye of Ender",
+    "cost": 4,
+    "items": [
+      "magic_eye_of_ender"
+    ]
+  },
+  {
+    "id": "magic_sugar",
+    "name": "Magic Sugar",
+    "cost": 4,
+    "items": [
+      "magic_sugar"
+    ]
+  },
+  {
+    "id": "monster_jerky",
+    "name": "Monster Jerky",
+    "cost": 5,
+    "items": [
+      "monster_jerky"
+    ]
+  },
+  {
+    "id": "slime_armor",
+    "name": "Slime Armor",
+    "cost": 5,
+    "items": [
+      "slime_helmet",
+      "slime_chestplate",
+      "slime_leggings",
+      "slime_boots"
+    ]
+  },
+  {
+    "id": "sword_of_beheading",
+    "name": "Sword of Beheading",
+    "cost": 6,
+    "items": [
+      "sword_of_beheading"
+    ]
+  },
+  {
+    "id": "basic_circuit_board",
+    "name": "Electric Work",
+    "cost": 8,
+    "items": [
+      "basic_circuit_board"
+    ]
+  },
+  {
+    "id": "advanced_circuit_board",
+    "name": "Advanced Electricity",
+    "cost": 9,
+    "items": [
+      "advanced_circuit_board"
+    ]
+  },
+  {
+    "id": "smeltery",
+    "name": "Hot Smelting",
+    "cost": 10,
+    "items": [
+      "smeltery"
+    ]
+  },
+  {
+    "id": "steel",
+    "name": "Steel Age",
+    "cost": 11,
+    "items": [
+      "steel_ingot"
+    ]
+  },
+  {
+    "id": "misc_power_items",
+    "name": "Important Power-Related Items",
+    "cost": 12,
+    "items": [
+      "sulfate",
+      "power_crystal"
+    ]
+  },
+  {
+    "id": "battery",
+    "name": "Your first Battery",
+    "cost": 10,
+    "items": [
+      "battery"
+    ]
+  },
+  {
+    "id": "steel_plate",
+    "name": "Steel Plating",
+    "cost": 14,
+    "items": [
+      "steel_plate"
+    ]
+  },
+  {
+    "id": "steel_thruster",
+    "name": "Steel Thruster",
+    "cost": 14,
+    "items": [
+      "steel_thruster"
+    ]
+  },
+  {
+    "id": "parachute",
+    "name": "Parachute",
+    "cost": 15,
+    "items": [
+      "parachute"
+    ]
+  },
+  {
+    "id": "grappling_hook",
+    "name": "Grappling Hook",
+    "cost": 15,
+    "items": [
+      "grappling_hook",
+      "hook",
+      "chain"
+    ]
+  },
+  {
+    "id": "jetpacks",
+    "name": "Jetpacks",
+    "cost": 22,
+    "items": [
+      "duralumin_jetpack",
+      "billon_jetpack",
+      "solder_jetpack",
+      "steel_jetpack",
+      "damascus_steel_jetpack",
+      "reinforced_alloy_jetpack"
+    ]
+  },
+  {
+    "id": "multitools",
+    "name": "Multi Tools",
+    "cost": 18,
+    "items": [
+      "duralumin_multi_tool",
+      "solder_multi_tool",
+      "billon_multi_tool",
+      "steel_multi_tool",
+      "damascus_steel_multi_tool",
+      "reinforced_alloy_multi_tool"
+    ]
+  },
+  {
+    "id": "solar_panel_and_helmet",
+    "name": "Solar Power",
+    "cost": 17,
+    "items": [
+      "solar_panel",
+      "solar_helmet"
+    ]
+  },
+  {
+    "id": "elemental_staff",
+    "name": "Elemental Staves",
+    "cost": 17,
+    "items": [
+      "staff_elemental"
+    ]
+  },
+  {
+    "id": "grind_stone",
+    "name": "Grind Stone",
+    "cost": 4,
+    "items": [
+      "grind_stone"
+    ]
+  },
+  {
+    "id": "cactus_armor",
+    "name": "Cactus Suit",
+    "cost": 5,
+    "items": [
+      "cactus_boots",
+      "cactus_chestplate",
+      "cactus_helmet",
+      "cactus_leggings"
+    ]
+  },
+  {
+    "id": "gold_pan",
+    "name": "Gold Pan",
+    "cost": 5,
+    "items": [
+      "gold_pan"
+    ]
+  },
+  {
+    "id": "magical_book_cover",
+    "name": "Magical Book Binding",
+    "cost": 5,
+    "items": [
+      "magical_book_cover"
+    ]
+  },
+  {
+    "id": "slimefun_metals",
+    "name": "New Metals",
+    "cost": 6,
+    "items": [
+      "copper_ingot",
+      "tin_ingot",
+      "silver_ingot",
+      "lead_ingot",
+      "aluminum_ingot",
+      "zinc_ingot",
+      "magnesium_ingot"
+    ]
+  },
+  {
+    "id": "ore_crusher",
+    "name": "Ore Doubling",
+    "cost": 6,
+    "items": [
+      "ore_crusher"
+    ]
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze Creation",
+    "cost": 8,
+    "items": [
+      "bronze_ingot"
+    ]
+  },
+  {
+    "id": "alloys",
+    "name": "Advanced Alloys",
+    "cost": 12,
+    "items": [
+      "billon_ingot",
+      "duralumin_ingot",
+      "aluminum_brass_ingot",
+      "aluminum_bronze_ingot",
+      "solder_ingot",
+      "corinthian_bronze_ingot",
+      "brass_ingot"
+    ]
+  },
+  {
+    "id": "compressor_and_carbon",
+    "name": "Carbon Creation",
+    "cost": 9,
+    "items": [
+      "compressor",
+      "carbon"
+    ]
+  },
+  {
+    "id": "gilded_iron_armor",
+    "name": "Gilded Iron Armor",
+    "cost": 16,
+    "items": [
+      "gilded_iron_helmet",
+      "gilded_iron_chestplate",
+      "gilded_iron_leggings",
+      "gilded_iron_boots"
+    ]
+  },
+  {
+    "id": "synthetic_diamond",
+    "name": "Synthetic Diamonds",
+    "cost": 10,
+    "items": [
+      "compressed_carbon",
+      "carbon_chunk",
+      "synthetic_diamond"
+    ]
+  },
+  {
+    "id": "pressure_chamber",
+    "name": "Pressure Chamber",
+    "cost": 14,
+    "items": [
+      "pressure_chamber"
+    ]
+  },
+  {
+    "id": "synthetic_sapphire",
+    "name": "Synthetic Sapphires",
+    "cost": 16,
+    "items": [
+      "synthetic_sapphire"
+    ]
+  },
+  {
+    "id": "damascus_steel",
+    "name": "Damascus Steel",
+    "cost": 17,
+    "items": [
+      "damascus_steel_ingot"
+    ]
+  },
+  {
+    "id": "damascus_steel_armor",
+    "name": "Damascus Steel Armor",
+    "cost": 18,
+    "items": [
+      "damascus_steel_helmet",
+      "damascus_steel_chestplate",
+      "damascus_steel_leggings",
+      "damascus_steel_boots"
+    ]
+  },
+  {
+    "id": "reinforced_alloy",
+    "name": "Reinforced Alloy",
+    "cost": 22,
+    "items": [
+      "hardened_metal_ingot",
+      "reinforced_alloy_ingot"
+    ]
+  },
+  {
+    "id": "carbonado",
+    "name": "Black Diamonds",
+    "cost": 26,
+    "items": [
+      "raw_carbonado",
+      "carbonado"
+    ]
+  },
+  {
+    "id": "magic_workbench",
+    "name": "Magic Workbench",
+    "cost": 12,
+    "items": [
+      "magic_workbench"
+    ]
+  },
+  {
+    "id": "wind_staff",
+    "name": "Wind Staff",
+    "cost": 17,
+    "items": [
+      "staff_elemental_wind"
+    ]
+  },
+  {
+    "id": "reinforced_armor",
+    "name": "Reinforced Armor",
+    "cost": 26,
+    "items": [
+      "reinforced_alloy_helmet",
+      "reinforced_alloy_chestplate",
+      "reinforced_alloy_leggings",
+      "reinforced_alloy_boots"
+    ]
+  },
+  {
+    "id": "ore_washer",
+    "name": "Ore Washer",
+    "cost": 5,
+    "items": [
+      "ore_washer",
+      "stone_chunk",
+      "sifted_ore"
+    ]
+  },
+  {
+    "id": "gold_carats",
+    "name": "Pure Gold",
+    "cost": 7,
+    "items": [
+      "gold_4k",
+      "gold_6k",
+      "gold_8k",
+      "gold_10k",
+      "gold_12k",
+      "gold_14k",
+      "gold_16k",
+      "gold_18k",
+      "gold_20k",
+      "gold_22k",
+      "gold_24k"
+    ]
+  },
+  {
+    "id": "silicon",
+    "name": "Silicon Valley",
+    "cost": 12,
+    "items": [
+      "silicon",
+      "ferrosilicon"
+    ]
+  },
+  {
+    "id": "fire_staff",
+    "name": "Fire Staff",
+    "cost": 2,
+    "items": [
+      "staff_elemental_fire"
+    ]
+  },
+  {
+    "id": "smelters_pickaxe",
+    "name": "Smelters Pickaxe",
+    "cost": 17,
+    "items": [
+      "smelters_pickaxe"
+    ]
+  },
+  {
+    "id": "common_talisman",
+    "name": "Common Talisman",
+    "cost": 14,
+    "items": [
+      "common_talisman"
+    ]
+  },
+  {
+    "id": "anvil_talisman",
+    "name": "Talisman of the Anvil",
+    "cost": 18,
+    "items": [
+      "anvil_talisman"
+    ]
+  },
+  {
+    "id": "miner_talisman",
+    "name": "Talisman of the Miner",
+    "cost": 18,
+    "items": [
+      "miner_talisman"
+    ]
+  },
+  {
+    "id": "hunter_talisman",
+    "name": "Talisman of the Hunter",
+    "cost": 18,
+    "items": [
+      "hunter_talisman"
+    ]
+  },
+  {
+    "id": "lava_talisman",
+    "name": "Talisman of the Lava Walker",
+    "cost": 18,
+    "items": [
+      "lava_talisman"
+    ]
+  },
+  {
+    "id": "water_talisman",
+    "name": "Talisman of the Water Breather",
+    "cost": 18,
+    "items": [
+      "water_talisman"
+    ]
+  },
+  {
+    "id": "angel_talisman",
+    "name": "Talisman of the Angel",
+    "cost": 18,
+    "items": [
+      "angel_talisman"
+    ]
+  },
+  {
+    "id": "fire_talisman",
+    "name": "Talisman of the Firefighter",
+    "cost": 18,
+    "items": [
+      "fire_talisman"
+    ]
+  },
+  {
+    "id": "lava_crystal",
+    "name": "Firey Situation",
+    "cost": 14,
+    "items": [
+      "lava_crystal"
+    ]
+  },
+  {
+    "id": "magician_talisman",
+    "name": "Talisman of the Magician",
+    "cost": 20,
+    "items": [
+      "magician_talisman"
+    ]
+  },
+  {
+    "id": "traveller_talisman",
+    "name": "Talisman of the Traveller",
+    "cost": 20,
+    "items": [
+      "traveller_talisman"
+    ]
+  },
+  {
+    "id": "warrior_talisman",
+    "name": "Talisman of the Warrior",
+    "cost": 20,
+    "items": [
+      "warrior_talisman"
+    ]
+  },
+  {
+    "id": "knight_talisman",
+    "name": "Talisman of the Knight",
+    "cost": 20,
+    "items": [
+      "knight_talisman"
+    ]
+  },
+  {
+    "id": "gilded_iron",
+    "name": "Shiny Iron",
+    "cost": 11,
+    "items": [
+      "gilded_iron"
+    ]
+  },
+  {
+    "id": "synthetic_emerald",
+    "name": "Fake Gem",
+    "cost": 17,
+    "items": [
+      "synthetic_emerald"
+    ]
+  },
+  {
+    "id": "chainmail_armor",
+    "name": "Chainmail Armor",
+    "cost": 8,
+    "items": [
+      "chain_helmet",
+      "chain_chestplate",
+      "chain_leggings",
+      "chain_boots"
+    ]
+  },
+  {
+    "id": "whirlwind_talisman",
+    "name": "Talisman of the Whirlwind",
+    "cost": 19,
+    "items": [
+      "whirlwind_talisman"
+    ]
+  },
+  {
+    "id": "wizard_talisman",
+    "name": "Talisman of the Wizard",
+    "cost": 22,
+    "items": [
+      "wizard_talisman"
+    ]
+  },
+  {
+    "id": "lumber_axe",
+    "name": "Lumber Axe",
+    "cost": 21,
+    "items": [
+      "lumber_axe"
+    ]
+  },
+  {
+    "id": "hazmat_suit",
+    "name": "Hazmat Suit",
+    "cost": 21,
+    "items": [
+      "scuba_helmet",
+      "hazmat_chestplate",
+      "hazmat_leggings",
+      "rubber_boots"
+    ]
+  },
+  {
+    "id": "uranium",
+    "name": "Radioactive",
+    "cost": 30,
+    "items": [
+      "tiny_uranium",
+      "small_uranium",
+      "uranium"
+    ]
+  },
+  {
+    "id": "crushed_ore",
+    "name": "Ore Purification",
+    "cost": 25,
+    "items": [
+      "crushed_ore",
+      "pulverized_ore",
+      "pure_ore_cluster"
+    ]
+  },
+  {
+    "id": "redstone_alloy",
+    "name": "Redstone Alloy",
+    "cost": 16,
+    "items": [
+      "redstone_alloy"
+    ]
+  },
+  {
+    "id": "carbonado_tools",
+    "name": "Top Tier Machines",
+    "cost": 24,
+    "items": [
+      "carbonado_multi_tool",
+      "carbonado_jetpack",
+      "carbonado_jetboots"
+    ]
+  },
+  {
+    "id": "first_aid",
+    "name": "First Aid",
+    "cost": 2,
+    "items": [
+      "cloth",
+      "rag",
+      "bandage",
+      "splint",
+      "can",
+      "vitamins",
+      "medicine"
+    ]
+  },
+  {
+    "id": "gold_armor",
+    "name": "Shiny Armor",
+    "cost": 13,
+    "items": [
+      "gold_12k_helmet",
+      "gold_12k_chestplate",
+      "gold_12k_leggings",
+      "gold_12k_boots"
+    ]
+  },
+  {
+    "id": "night_vision_googles",
+    "name": "Night Vision Goggles",
+    "cost": 10,
+    "items": [
+      "night_vision_goggles"
+    ]
+  },
+  {
+    "id": "pickaxe_of_containment",
+    "name": "Pickaxe of Containment",
+    "cost": 14,
+    "items": [
+      "pickaxe_of_containment",
+      "broken_spawner"
+    ]
+  },
+  {
+    "id": "table_saw",
+    "name": "Table Saw",
+    "cost": 4,
+    "items": [
+      "table_saw"
+    ]
+  },
+  {
+    "id": "slime_steel_armor",
+    "name": "Slimy Steel Armor",
+    "cost": 27,
+    "items": [
+      "slime_steel_helmet",
+      "slime_steel_chestplate",
+      "slime_steel_leggings",
+      "slime_steel_boots"
+    ]
+  },
+  {
+    "id": "blade_of_vampires",
+    "name": "Blade of Vampires",
+    "cost": 26,
+    "items": [
+      "blade_of_vampires"
+    ]
+  },
+  {
+    "id": "water_staff",
+    "name": "Water Staff",
+    "cost": 8,
+    "items": [
+      "staff_elemental_water"
+    ]
+  },
+  {
+    "id": "24k_gold_block",
+    "name": "Golden City",
+    "cost": 19,
+    "items": [
+      "gold_24k_block"
+    ]
+  },
+  {
+    "id": "composter",
+    "name": "Composting Dirt",
+    "cost": 3,
+    "items": [
+      "composter"
+    ]
+  },
+  {
+    "id": "farmer_shoes",
+    "name": "Farmer Shoes",
+    "cost": 4,
+    "items": [
+      "farmer_shoes"
+    ]
+  },
+  {
+    "id": "explosive_tools",
+    "name": "Explosive Tools",
+    "cost": 30,
+    "items": [
+      "explosive_pickaxe",
+      "explosive_shovel"
+    ]
+  },
+  {
+    "id": "automated_panning_machine",
+    "name": "Automated Gold Pan",
+    "cost": 17,
+    "items": [
+      "automated_panning_machine"
+    ]
+  },
+  {
+    "id": "boots_of_the_stomper",
+    "name": "Boots of the Stomper",
+    "cost": 19,
+    "items": [
+      "boots_of_the_stomper"
+    ]
+  },
+  {
+    "id": "pickaxe_of_the_seeker",
+    "name": "Pickaxe of the Seeker",
+    "cost": 19,
+    "items": [
+      "pickaxe_of_the_seeker"
+    ]
+  },
+  {
+    "id": "backpacks",
+    "name": "Backpacks",
+    "cost": 15,
+    "items": [
+      "large_backpack",
+      "medium_backpack",
+      "small_backpack"
+    ]
+  },
+  {
+    "id": "woven_backpack",
+    "name": "Woven Backpack",
+    "cost": 19,
+    "items": [
+      "woven_backpack"
+    ]
+  },
+  {
+    "id": "crucible",
+    "name": "Crucible",
+    "cost": 13,
+    "items": [
+      "crucible"
+    ]
+  },
+  {
+    "id": "gilded_backpack",
+    "name": "Gilded Backpack",
+    "cost": 22,
+    "items": [
+      "gilded_backpack"
+    ]
+  },
+  {
+    "id": "armored_jetpack",
+    "name": "Armored Jetpack",
+    "cost": 27,
+    "items": [
+      "armored_jetpack"
+    ]
+  },
+  {
+    "id": "ender_talismans",
+    "name": "Ender Talismans",
+    "cost": 28,
+    "items": [
+      "ender_anvil_talisman",
+      "ender_miner_talisman",
+      "ender_farmer_talisman",
+      "ender_hunter_talisman",
+      "ender_lava_talisman",
+      "ender_water_talisman",
+      "ender_angel_talisman",
+      "ender_fire_talisman",
+      "ender_magician_talisman",
+      "ender_traveller_talisman",
+      "ender_warrior_talisman",
+      "ender_knight_talisman",
+      "ender_caveman_talisman",
+      "ender_wise_talisman",
+      "ender_whirlwind_talisman",
+      "ender_wizard_talisman"
+    ]
+  },
+  {
+    "id": "nickel_and_cobalt",
+    "name": "Even more Ores",
+    "cost": 10,
+    "items": [
+      "nickel_ingot",
+      "cobalt_ingot"
+    ]
+  },
+  {
+    "id": "magnet",
+    "name": "Magnetic Metals",
+    "cost": 16,
+    "items": [
+      "magnet"
+    ]
+  },
+  {
+    "id": "infused_magnet",
+    "name": "Infused Magnets",
+    "cost": 18,
+    "items": [
+      "infused_magnet"
+    ]
+  },
+  {
+    "id": "cobalt_pickaxe",
+    "name": "Speedy Pickaxe",
+    "cost": 14,
+    "items": [
+      "cobalt_pickaxe"
+    ]
+  },
+  {
+    "id": "essence_of_afterlife",
+    "name": "Necromancy",
+    "cost": 19,
+    "items": [
+      "necrotic_skull",
+      "essence_of_afterlife"
+    ]
+  },
+  {
+    "id": "bound_backpack",
+    "name": "Soulbound Storage",
+    "cost": 22,
+    "items": [
+      "bound_backpack"
+    ]
+  },
+  {
+    "id": "jetboots",
+    "name": "Jet Boots",
+    "cost": 25,
+    "items": [
+      "duralumin_jetboots",
+      "billon_jetboots",
+      "solder_jetboots",
+      "steel_jetboots",
+      "damascus_steel_jetboots",
+      "reinforced_alloy_jetboots"
+    ]
+  },
+  {
+    "id": "armored_jetboots",
+    "name": "Armored Jet Boots",
+    "cost": 27,
+    "items": [
+      "armored_jetboots"
+    ]
+  },
+  {
+    "id": "seismic_axe",
+    "name": "Seismic Axe",
+    "cost": 29,
+    "items": [
+      "seismic_axe"
+    ]
+  },
+  {
+    "id": "pickaxe_of_vein_mining",
+    "name": "Pickaxe of Vein Mining",
+    "cost": 29,
+    "items": [
+      "pickaxe_of_vein_mining"
+    ]
+  },
+  {
+    "id": "bound_weapons",
+    "name": "Soulbound Weapons",
+    "cost": 29,
+    "items": [
+      "soulbound_sword",
+      "soulbound_bow",
+      "soulbound_trident"
+    ]
+  },
+  {
+    "id": "bound_tools",
+    "name": "Soulbound Tools",
+    "cost": 29,
+    "items": [
+      "soulbound_pickaxe",
+      "soulbound_axe",
+      "soulbound_shovel",
+      "soulbound_hoe"
+    ]
+  },
+  {
+    "id": "bound_armor",
+    "name": "Soulbound Armor",
+    "cost": 29,
+    "items": [
+      "soulbound_helmet",
+      "soulbound_chestplate",
+      "soulbound_leggings",
+      "soulbound_boots"
+    ]
+  },
+  {
+    "id": "juicer",
+    "name": "Delicious Drinks",
+    "cost": 29,
+    "items": [
+      "juicer",
+      "apple_juice",
+      "melon_juice",
+      "carrot_juice",
+      "pumpkin_juice",
+      "sweet_berry_juice",
+      "glow_berry_juice"
+    ]
+  },
+  {
+    "id": "repaired_spawner",
+    "name": "Repairing Spawners",
+    "cost": 15,
+    "items": [
+      "reinforced_spawner"
+    ]
+  },
+  {
+    "id": "enhanced_furnace",
+    "name": "Enhanced Furnace",
+    "cost": 7,
+    "items": [
+      "enhanced_furnace",
+      "enhanced_furnace_2"
+    ]
+  },
+  {
+    "id": "more_enhanced_furnaces",
+    "name": "Better Furnaces",
+    "cost": 18,
+    "items": [
+      "enhanced_furnace_3",
+      "enhanced_furnace_4",
+      "enhanced_furnace_5",
+      "enhanced_furnace_6",
+      "enhanced_furnace_7"
+    ]
+  },
+  {
+    "id": "high_tier_enhanced_furnaces",
+    "name": "High Tier Furnace",
+    "cost": 29,
+    "items": [
+      "enhanced_furnace_8",
+      "enhanced_furnace_9",
+      "enhanced_furnace_10",
+      "enhanced_furnace_11"
+    ]
+  },
+  {
+    "id": "reinforced_furnace",
+    "name": "Reinforced Furnace",
+    "cost": 32,
+    "items": [
+      "reinforced_furnace"
+    ]
+  },
+  {
+    "id": "carbonado_furnace",
+    "name": "Carbonado Edged Furnace",
+    "cost": 35,
+    "items": [
+      "carbonado_edged_furnace"
+    ]
+  },
+  {
+    "id": "electric_motor",
+    "name": "Heating up",
+    "cost": 32,
+    "items": [
+      "electro_magnet",
+      "electric_motor",
+      "heating_coil"
+    ]
+  },
+  {
+    "id": "block_placer",
+    "name": "Block Placer",
+    "cost": 17,
+    "items": [
+      "block_placer"
+    ]
+  },
+  {
+    "id": "scroll_of_dimensional_teleposition",
+    "name": "Turning things around",
+    "cost": 38,
+    "items": [
+      "scroll_of_dimensional_teleposition"
+    ]
+  },
+  {
+    "id": "special_bows",
+    "name": "Robin Hood",
+    "cost": 22,
+    "items": [
+      "explosive_bow",
+      "icy_bow"
+    ]
+  },
+  {
+    "id": "tome_of_knowledge_sharing",
+    "name": "Sharing with friends",
+    "cost": 30,
+    "items": [
+      "tome_of_knowledge_sharing"
+    ]
+  },
+  {
+    "id": "flask_of_knowledge",
+    "name": "XP Storage",
+    "cost": 13,
+    "items": [
+      "flask_of_knowledge"
+    ]
+  },
+  {
+    "id": "hardened_glass",
+    "name": "Withstanding Explosions",
+    "cost": 15,
+    "items": [
+      "reinforced_plate",
+      "hardened_glass"
+    ]
+  },
+  {
+    "id": "golden_apple_juice",
+    "name": "Golden potion",
+    "cost": 24,
+    "items": [
+      "golden_apple_juice"
+    ]
+  },
+  {
+    "id": "cooler",
+    "name": "Portable Beverages",
+    "cost": 24,
+    "items": [
+      "cooling_unit",
+      "cooler"
+    ]
+  },
+  {
+    "id": "ancient_altar",
+    "name": "Ancient Altar",
+    "cost": 15,
+    "items": [
+      "ancient_pedestal",
+      "ancient_altar"
+    ]
+  },
+  {
+    "id": "wither_proof_obsidian",
+    "name": "Wither-Proof Obsidian",
+    "cost": 21,
+    "items": [
+      "wither_proof_obsidian"
+    ]
+  },
+  {
+    "id": "ancient_runes",
+    "name": "Elemental Runes",
+    "cost": 15,
+    "items": [
+      "blank_rune",
+      "ancient_rune_earth",
+      "ancient_rune_water",
+      "ancient_rune_air",
+      "ancient_rune_fire"
+    ]
+  },
+  {
+    "id": "special_runes",
+    "name": "Purple Runes",
+    "cost": 18,
+    "items": [
+      "ancient_rune_ender",
+      "ancient_rune_rainbow"
+    ]
+  },
+  {
+    "id": "infernal_bonemeal",
+    "name": "Infernal Bonemeal",
+    "cost": 12,
+    "items": [
+      "infernal_bonemeal"
+    ]
+  },
+  {
+    "id": "rainbow_blocks",
+    "name": "Rainbow Blocks",
+    "cost": 24,
+    "items": [
+      "rainbow_clay",
+      "rainbow_glass",
+      "rainbow_glass_pane",
+      "rainbow_wool",
+      "rainbow_concrete",
+      "rainbow_glazed_terracotta"
+    ]
+  },
+  {
+    "id": "infused_hopper",
+    "name": "Infused Hopper",
+    "cost": 22,
+    "items": [
+      "infused_hopper"
+    ]
+  },
+  {
+    "id": "wither_proof_glass",
+    "name": "Wither-Proof Glass",
+    "cost": 20,
+    "items": [
+      "wither_proof_glass"
+    ]
+  },
+  {
+    "id": "duct_tape",
+    "name": "Duct Tape",
+    "cost": 14,
+    "items": [
+      "duct_tape"
+    ]
+  },
+  {
+    "id": "plastic_sheet",
+    "name": "Plastic",
+    "cost": 25,
+    "items": [
+      "plastic_sheet"
+    ]
+  },
+  {
+    "id": "android_memory_core",
+    "name": "Memory Core",
+    "cost": 28,
+    "items": [
+      "android_memory_core"
+    ]
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "cost": 30,
+    "items": [
+      "bucket_of_oil",
+      "oil_pump"
+    ]
+  },
+  {
+    "id": "fuel",
+    "name": "Fuel",
+    "cost": 30,
+    "items": [
+      "bucket_of_fuel",
+      "refinery"
+    ]
+  },
+  {
+    "id": "hologram_projector",
+    "name": "Holograms",
+    "cost": 36,
+    "items": [
+      "hologram_projector"
+    ]
+  },
+  {
+    "id": "capacitors",
+    "name": "Tier 1 Capacitors",
+    "cost": 25,
+    "items": [
+      "small_capacitor",
+      "medium_capacitor",
+      "big_capacitor"
+    ]
+  },
+  {
+    "id": "high_tier_capacitors",
+    "name": "Tier 2 Capacitors",
+    "cost": 32,
+    "items": [
+      "large_capacitor",
+      "carbonado_edged_capacitor"
+    ]
+  },
+  {
+    "id": "solar_generators",
+    "name": "Solar Power Plant",
+    "cost": 14,
+    "items": [
+      "solar_generator"
+    ]
+  },
+  {
+    "id": "electric_furnaces",
+    "name": "Powered Furnace",
+    "cost": 15,
+    "items": [
+      "electric_furnace"
+    ]
+  },
+  {
+    "id": "electric_ore_grinding",
+    "name": "Crushing and Grinding",
+    "cost": 20,
+    "items": [
+      "electric_ore_grinder",
+      "electric_ingot_pulverizer"
+    ]
+  },
+  {
+    "id": "heated_pressure_chamber",
+    "name": "Heated Pressure Chamber",
+    "cost": 22,
+    "items": [
+      "heated_pressure_chamber"
+    ]
+  },
+  {
+    "id": "coal_generator",
+    "name": "Coal Generator",
+    "cost": 14,
+    "items": [
+      "coal_generator"
+    ]
+  },
+  {
+    "id": "bio_reactor",
+    "name": "Bio-Reactor",
+    "cost": 18,
+    "items": [
+      "bio_reactor"
+    ]
+  },
+  {
+    "id": "auto_enchanting",
+    "name": "Automatic Enchanting and Disenchanting",
+    "cost": 24,
+    "items": [
+      "auto_enchanter",
+      "auto_disenchanter"
+    ]
+  },
+  {
+    "id": "auto_anvil",
+    "name": "Automatic Anvil",
+    "cost": 34,
+    "items": [
+      "auto_anvil",
+      "auto_anvil_2"
+    ]
+  },
+  {
+    "id": "multimeter",
+    "name": "Power Measurement",
+    "cost": 10,
+    "items": [
+      "multimeter"
+    ]
+  },
+  {
+    "id": "gps_setup",
+    "name": "Basic GPS Setup",
+    "cost": 28,
+    "items": [
+      "gps_transmitter",
+      "gps_control_panel",
+      "gps_marker_tool"
+    ]
+  },
+  {
+    "id": "gps_emergency_transmitter",
+    "name": "GPS Emergency Waypoint",
+    "cost": 30,
+    "items": [
+      "gps_emergency_transmitter"
+    ]
+  },
+  {
+    "id": "programmable_androids",
+    "name": "Programmable Androids",
+    "cost": 50,
+    "items": [
+      "programmable_android",
+      "programmable_android_farmer",
+      "programmable_android_butcher",
+      "programmable_android_fisherman",
+      "programmable_android_miner",
+      "programmable_android_woodcutter"
+    ]
+  },
+  {
+    "id": "android_interfaces",
+    "name": "Android Interfaces",
+    "cost": 26,
+    "items": [
+      "android_interface_fuel",
+      "android_interface_items"
+    ]
+  },
+  {
+    "id": "geo_scanner",
+    "name": "GEO-Scans",
+    "cost": 30,
+    "items": [
+      "gps_geo_scanner",
+      "portable_geo_scanner"
+    ]
+  },
+  {
+    "id": "combustion_reactor",
+    "name": "Combustion Reactor",
+    "cost": 38,
+    "items": [
+      "combustion_reactor"
+    ]
+  },
+  {
+    "id": "teleporter",
+    "name": "Teleporter Base Components",
+    "cost": 42,
+    "items": [
+      "gps_teleportation_matrix",
+      "gps_teleporter_pylon"
+    ]
+  },
+  {
+    "id": "teleporter_activation_plates",
+    "name": "Teleporter Activation",
+    "cost": 36,
+    "items": [
+      "gps_activation_device_personal",
+      "gps_activation_device_shared"
+    ]
+  },
+  {
+    "id": "better_solar_generators",
+    "name": "Upgraded Solar Generators",
+    "cost": 28,
+    "items": [
+      "solar_generator_2",
+      "solar_generator_3"
+    ]
+  },
+  {
+    "id": "better_gps_transmitters",
+    "name": "Upgraded Transmitters",
+    "cost": 36,
+    "items": [
+      "gps_transmitter_2",
+      "gps_transmitter_3"
+    ]
+  },
+  {
+    "id": "elevator",
+    "name": "Elevators",
+    "cost": 28,
+    "items": [
+      "elevator_plate"
+    ]
+  },
+  {
+    "id": "energized_solar_generator",
+    "name": "Full-Time Solar Power",
+    "cost": 44,
+    "items": [
+      "solar_generator_4"
+    ]
+  },
+  {
+    "id": "energized_gps_transmitter",
+    "name": "Top Tier Transmitter",
+    "cost": 44,
+    "items": [
+      "gps_transmitter_4"
+    ]
+  },
+  {
+    "id": "energy_regulator",
+    "name": "Energy Networks 101",
+    "cost": 6,
+    "items": [
+      "energy_regulator"
+    ]
+  },
+  {
+    "id": "butcher_androids",
+    "name": "Butcher Androids",
+    "cost": 32,
+    "items": [
+      "programmable_android_butcher"
+    ]
+  },
+  {
+    "id": "organic_food",
+    "name": "Organic Food",
+    "cost": 25,
+    "items": [
+      "food_fabricator",
+      "organic_food_wheat",
+      "organic_food_carrot",
+      "organic_food_potato",
+      "organic_food_seeds",
+      "organic_food_beetroot",
+      "organic_food_melon",
+      "organic_food_apple",
+      "organic_food_sweet_berries",
+      "organic_food_kelp",
+      "organic_food_cocoa",
+      "organic_food_seagrass"
+    ]
+  },
+  {
+    "id": "auto_breeder",
+    "name": "Automated Feeding",
+    "cost": 25,
+    "items": [
+      "auto_breeder"
+    ]
+  },
+  {
+    "id": "advanced_android",
+    "name": "Advanced Androids",
+    "cost": 60,
+    "items": [
+      "programmable_android_2"
+    ]
+  },
+  {
+    "id": "advanced_butcher_android",
+    "name": "Advanced Androids - Butcher",
+    "cost": 30,
+    "items": [
+      "programmable_android_2_butcher"
+    ]
+  },
+  {
+    "id": "advanced_fisherman_android",
+    "name": "Advanced Androids - Fisherman",
+    "cost": 30,
+    "items": [
+      "programmable_android_2_fisherman"
+    ]
+  },
+  {
+    "id": "animal_growth_accelerator",
+    "name": "Animal Growth Manipulation",
+    "cost": 32,
+    "items": [
+      "animal_growth_accelerator"
+    ]
+  },
+  {
+    "id": "xp_collector",
+    "name": "XP Collector",
+    "cost": 36,
+    "items": [
+      "xp_collector"
+    ]
+  },
+  {
+    "id": "organic_fertilizer",
+    "name": "Organic Fertilizer",
+    "cost": 36,
+    "items": [
+      "food_composter",
+      "fertilizer_wheat",
+      "fertilizer_carrot",
+      "fertilizer_potato",
+      "fertilizer_seeds",
+      "fertilizer_beetroot",
+      "fertilizer_melon",
+      "fertilizer_apple",
+      "fertilizer_sweet_berries",
+      "fertilizer_kelp",
+      "fertilizer_cocoa",
+      "fertilizer_seagrass"
+    ]
+  },
+  {
+    "id": "crop_growth_accelerator",
+    "name": "Crop Growth Acceleration",
+    "cost": 40,
+    "items": [
+      "crop_growth_accelerator"
+    ]
+  },
+  {
+    "id": "better_crop_growth_accelerator",
+    "name": "Upgraded Crop Growth Accelerator",
+    "cost": 44,
+    "items": [
+      "crop_growth_accelerator_2"
+    ]
+  },
+  {
+    "id": "reactor_essentials",
+    "name": "Reactor Essentials",
+    "cost": 36,
+    "items": [
+      "reactor_collant_cell",
+      "neptunium",
+      "plutonium"
+    ]
+  },
+  {
+    "id": "nuclear_reactor",
+    "name": "Nuclear Power Plant",
+    "cost": 48,
+    "items": [
+      "nuclear_reactor"
+    ]
+  },
+  {
+    "id": "freezer",
+    "name": "Mr Freeze",
+    "cost": 20,
+    "items": [
+      "freezer"
+    ]
+  },
+  {
+    "id": "cargo_basics",
+    "name": "Cargo Basics",
+    "cost": 30,
+    "items": [
+      "cargo_motor",
+      "cargo_manager",
+      "cargo_node"
+    ]
+  },
+  {
+    "id": "cargo_nodes",
+    "name": "Cargo Setup",
+    "cost": 30,
+    "items": [
+      "cargo_node_input",
+      "cargo_node_output"
+    ]
+  },
+  {
+    "id": "electric_ingot_machines",
+    "name": "Electric Ingot Fabrication",
+    "cost": 18,
+    "items": [
+      "electric_gold_pan",
+      "electric_dust_washer",
+      "electric_ingot_factory"
+    ]
+  },
+  {
+    "id": "medium_tier_electric_ingot_machines",
+    "name": "Fast Ingot Fabrication",
+    "cost": 25,
+    "items": [
+      "electric_gold_pan_2",
+      "electric_dust_washer_2",
+      "electric_ingot_factory_2",
+      "electric_ore_grinder_2"
+    ]
+  },
+  {
+    "id": "high_tier_electric_ingot_machines",
+    "name": "Super Fast Ingot Fabrication",
+    "cost": 32,
+    "items": [
+      "electric_gold_pan_3",
+      "electric_dust_washer_3",
+      "electric_ingot_factory_3",
+      "electric_ore_grinder_3"
+    ]
+  },
+  {
+    "id": "better_food_fabricator",
+    "name": "Upgraded Food Fabrication",
+    "cost": 28,
+    "items": [
+      "food_fabricator_2",
+      "food_composter_2"
+    ]
+  },
+  {
+    "id": "reactor_access_port",
+    "name": "Reactor Interaction",
+    "cost": 18,
+    "items": [
+      "reactor_access_port"
+    ]
+  },
+  {
+    "id": "fluid_pump",
+    "name": "Fluid Pump",
+    "cost": 28,
+    "items": [
+      "fluid_pump"
+    ]
+  },
+  {
+    "id": "better_freezer",
+    "name": "Upgraded Freezer",
+    "cost": 29,
+    "items": [
+      "freezer_2",
+      "freezer_3"
+    ]
+  },
+  {
+    "id": "boosted_uranium",
+    "name": "Never-Ending Circle",
+    "cost": 30,
+    "items": [
+      "boosted_uranium"
+    ]
+  },
+  {
+    "id": "trash_can",
+    "name": "Trash",
+    "cost": 8,
+    "items": [
+      "trash_can_block"
+    ]
+  },
+  {
+    "id": "advanced_output_node",
+    "name": "Advanced Output Node",
+    "cost": 24,
+    "items": [
+      "cargo_node_output_advanced"
+    ]
+  },
+  {
+    "id": "carbon_press",
+    "name": "Carbon Press",
+    "cost": 28,
+    "items": [
+      "carbon_press"
+    ]
+  },
+  {
+    "id": "electric_smeltery",
+    "name": "Electric Smeltery",
+    "cost": 28,
+    "items": [
+      "electric_smeltery"
+    ]
+  },
+  {
+    "id": "better_electric_furnace",
+    "name": "Upgraded Electric Furnace",
+    "cost": 20,
+    "items": [
+      "electric_furnace_2",
+      "electric_furnace_3"
+    ]
+  },
+  {
+    "id": "better_carbon_press",
+    "name": "Upgraded Carbon Press",
+    "cost": 26,
+    "items": [
+      "carbon_press_2"
+    ]
+  },
+  {
+    "id": "empowered_android",
+    "name": "Empowered Androids",
+    "cost": 60,
+    "items": [
+      "programmable_android_3"
+    ]
+  },
+  {
+    "id": "empowered_butcher_android",
+    "name": "Empowered Androids - Butcher",
+    "cost": 30,
+    "items": [
+      "programmable_android_3_butcher"
+    ]
+  },
+  {
+    "id": "empowered_fisherman_android",
+    "name": "Empowered Androids - Fisherman",
+    "cost": 30,
+    "items": [
+      "programmable_android_3_fisherman"
+    ]
+  },
+  {
+    "id": "high_tier_carbon_press",
+    "name": "Ultimate Carbon Press",
+    "cost": 32,
+    "items": [
+      "carbon_press_3"
+    ]
+  },
+  {
+    "id": "wither_assembler",
+    "name": "Automated Wither Killer",
+    "cost": 35,
+    "items": [
+      "wither_assembler"
+    ]
+  },
+  {
+    "id": "better_heated_pressure_chamber",
+    "name": "Upgraded Heated Pressure Chamber",
+    "cost": 20,
+    "items": [
+      "heated_pressure_chamber_2"
+    ]
+  },
+  {
+    "id": "elytra",
+    "name": "Elytras",
+    "cost": 20,
+    "items": [
+      "elytra_scale",
+      "elytra"
+    ]
+  },
+  {
+    "id": "special_elytras",
+    "name": "Special Elytras",
+    "cost": 30,
+    "items": [
+      "infused_elytra",
+      "soulbound_elytra"
+    ]
+  },
+  {
+    "id": "electric_crucible",
+    "name": "Electrified Crucible",
+    "cost": 26,
+    "items": [
+      "electrified_crucible"
+    ]
+  },
+  {
+    "id": "better_electric_crucibles",
+    "name": "Hot Crucibles",
+    "cost": 30,
+    "items": [
+      "electrified_crucible_2",
+      "electrified_crucible_3"
+    ]
+  },
+  {
+    "id": "advanced_electric_smeltery",
+    "name": "Advanced Electric Smeltery",
+    "cost": 28,
+    "items": [
+      "electric_smeltery_2"
+    ]
+  },
+  {
+    "id": "advanced_farmer_android",
+    "name": "Advanced Androids - Farmer",
+    "cost": 30,
+    "items": [
+      "programmable_android_2_farmer"
+    ]
+  },
+  {
+    "id": "lava_generator",
+    "name": "Lava Generator",
+    "cost": 16,
+    "items": [
+      "lava_generator"
+    ]
+  },
+  {
+    "id": "nether_ice",
+    "name": "Nether Ice Coolant",
+    "cost": 45,
+    "items": [
+      "nether_ice",
+      "enriched_nether_ice",
+      "nether_ice_coolant_cell"
+    ]
+  },
+  {
+    "id": "nether_star_reactor",
+    "name": "Nether Star Reactor",
+    "cost": 60,
+    "items": [
+      "netherstar_reactor"
+    ]
+  },
+  {
+    "id": "blistering_ingots",
+    "name": "Blistering Radioactivity",
+    "cost": 38,
+    "items": [
+      "blistering_ingot",
+      "blistering_ingot_2",
+      "blistering_ingot_3"
+    ]
+  },
+  {
+    "id": "automatic_ignition_chamber",
+    "name": "Automatic Ignition Chamber",
+    "cost": 12,
+    "items": [
+      "ignition_chamber"
+    ]
+  },
+  {
+    "id": "output_chest",
+    "name": "Basic machinery output chest",
+    "cost": 20,
+    "items": [
+      "output_chest"
+    ]
+  },
+  {
+    "id": "copper_wire",
+    "name": "Thinned-down Conductivity",
+    "cost": 15,
+    "items": [
+      "copper_wire"
+    ]
+  },
+  {
+    "id": "radiant_backpack",
+    "name": "Radiant Backpack",
+    "cost": 25,
+    "items": [
+      "radiant_backpack"
+    ]
+  },
+  {
+    "id": "auto_drier",
+    "name": "A Dry Day",
+    "cost": 15,
+    "items": [
+      "auto_drier"
+    ]
+  },
+  {
+    "id": "diet_cookie",
+    "name": "Diet Cookie",
+    "cost": 3,
+    "items": [
+      "diet_cookie"
+    ]
+  },
+  {
+    "id": "storm_staff",
+    "name": "Storm Staff",
+    "cost": 30,
+    "items": [
+      "staff_elemental_storm"
+    ]
+  },
+  {
+    "id": "soulbound_rune",
+    "name": "Soulbound Rune",
+    "cost": 60,
+    "items": [
+      "ancient_rune_soulbound"
+    ]
+  },
+  {
+    "id": "geo_miner",
+    "name": "GEO-Miner",
+    "cost": 24,
+    "items": [
+      "geo_miner"
+    ]
+  },
+  {
+    "id": "lightning_rune",
+    "name": "Lightning Rune",
+    "cost": 24,
+    "items": [
+      "ancient_rune_lightning"
+    ]
+  },
+  {
+    "id": "totem_of_undying",
+    "name": "Totem of Undying",
+    "cost": 36,
+    "items": [
+      "totem_of_undying"
+    ]
+  },
+  {
+    "id": "charging_bench",
+    "name": "Charging Bench",
+    "cost": 8,
+    "items": [
+      "charging_bench"
+    ]
+  },
+  {
+    "id": "nether_gold_pan",
+    "name": "Nether Gold Pan",
+    "cost": 8,
+    "items": [
+      "nether_gold_pan"
+    ]
+  },
+  {
+    "id": "electric_press",
+    "name": "Electric Press",
+    "cost": 16,
+    "items": [
+      "electric_press",
+      "electric_press_2"
+    ]
+  },
+  {
+    "id": "magnesium_generator",
+    "name": "Power from Magnesium",
+    "cost": 20,
+    "items": [
+      "magnesium_salt",
+      "magnesium_generator"
+    ]
+  },
+  {
+    "id": "kelp_cookie",
+    "name": "Tasty Kelp",
+    "cost": 4,
+    "items": [
+      "kelp_cookie"
+    ]
+  },
+  {
+    "id": "makeshift_smeltery",
+    "name": "Improvised Smeltery",
+    "cost": 6,
+    "items": [
+      "makeshift_smeltery"
+    ]
+  },
+  {
+    "id": "tree_growth_accelerator",
+    "name": "Faster Trees",
+    "cost": 18,
+    "items": [
+      "tree_growth_accelerator"
+    ]
+  },
+  {
+    "id": "industrial_miner",
+    "name": "Industrial Mining",
+    "cost": 28,
+    "items": [
+      "industrial_miner"
+    ]
+  },
+  {
+    "id": "advanced_industrial_miner",
+    "name": "Better Mining",
+    "cost": 36,
+    "items": [
+      "advanced_industrial_miner"
+    ]
+  },
+  {
+    "id": "magical_zombie_pills",
+    "name": "De-Zombification",
+    "cost": 22,
+    "items": [
+      "magical_zombie_pills"
+    ]
+  },
+  {
+    "id": "auto_brewer",
+    "name": "Industrial Brewery",
+    "cost": 30,
+    "items": [
+      "auto_brewer"
+    ]
+  },
+  {
+    "id": "enchantment_rune",
+    "name": "Ancient Enchanting",
+    "cost": 24,
+    "items": [
+      "magical_glass",
+      "ancient_rune_enchantment"
+    ]
+  },
+  {
+    "id": "lead_clothing",
+    "name": "Lead Clothing",
+    "cost": 14,
+    "items": [
+      "reinforced_cloth"
+    ]
+  },
+  {
+    "id": "tape_measure",
+    "name": "Tape Measure",
+    "cost": 7,
+    "items": [
+      "tape_measure"
+    ]
+  },
+  {
+    "id": "iron_golem_assembler",
+    "name": "Automated Iron Golems",
+    "cost": 30,
+    "items": [
+      "iron_golem_assembler"
+    ]
+  },
+  {
+    "id": "shulker_shell",
+    "name": "Synthetic Shulkers",
+    "cost": 30,
+    "items": [
+      "synthetic_shulker_shell"
+    ]
+  },
+  {
+    "id": "villager_rune",
+    "name": "Reset Villager Trades",
+    "cost": 26,
+    "items": [
+      "ancient_rune_villagers",
+      "strange_nether_goo"
+    ]
+  },
+  {
+    "id": "climbing_pick",
+    "name": "Block Raider",
+    "cost": 20,
+    "items": [
+      "climbing_pick"
+    ]
+  },
+  {
+    "id": "even_higher_tier_capacitors",
+    "name": "Tier 3 Capacitors",
+    "cost": 40,
+    "items": [
+      "energized_capacitor"
+    ]
+  },
+  {
+    "id": "caveman_talisman",
+    "name": "Talisman of the Caveman",
+    "cost": 20,
+    "items": [
+      "caveman_talisman"
+    ]
+  },
+  {
+    "id": "elytra_cap",
+    "name": "Crash Gear",
+    "cost": 20,
+    "items": [
+      "elytra_cap"
+    ]
+  },
+  {
+    "id": "energy_connectors",
+    "name": "Wired Connections",
+    "cost": 12,
+    "items": [
+      "energy_connector"
+    ]
+  },
+  {
+    "id": "bee_armor",
+    "name": "Bee Armor",
+    "cost": 24,
+    "items": [
+      "bee_helmet",
+      "bee_wings",
+      "bee_leggings",
+      "bee_boots"
+    ]
+  },
+  {
+    "id": "wise_talisman",
+    "name": "Talisman of the Wise",
+    "cost": 20,
+    "items": [
+      "wise_talisman"
+    ]
+  },
+  {
+    "id": "book_binder",
+    "name": "Enchantment Book Binding",
+    "cost": 26,
+    "items": [
+      "book_binder"
+    ]
+  },
+  {
+    "id": "auto_crafting",
+    "name": "Automatic Crafting",
+    "cost": 30,
+    "items": [
+      "crafting_motor",
+      "vanilla_auto_crafter",
+      "enhanced_auto_crafter",
+      "armor_auto_crafter"
+    ]
+  },
+  {
+    "id": "produce_collector",
+    "name": "Automatic Milking",
+    "cost": 20,
+    "items": [
+      "produce_collector"
+    ]
+  },
+  {
+    "id": "improved_generators",
+    "name": "Improved Generators",
+    "cost": 24,
+    "items": [
+      "coal_generator_2",
+      "lava_generator_2"
+    ]
+  },
+  {
+    "id": "ingredients_and_cheese",
+    "name": "Slimefun Cuisine",
+    "cost": 5,
+    "items": [
+      "salt",
+      "wheat_flour",
+      "heavy_cream",
+      "cheese",
+      "butter"
+    ]
+  },
+  {
+    "id": "medium_tier_auto_enchanting",
+    "name": "Fast Automatic Enchanting and Disenchanting",
+    "cost": 48,
+    "items": [
+      "auto_enchanter_2",
+      "auto_disenchanter_2"
+    ]
+  },
+  {
+    "id": "portable_teleporter",
+    "name": "Teleportation from Anywhere",
+    "cost": 42,
+    "items": [
+      "portable_teleporter"
+    ]
+  },
+  {
+    "id": "trident",
+    "name": "Trident",
+    "cost": 20,
+    "items": [
+      "trident"
+    ]
+  },
+  {
+    "id": "farmer_talisman",
+    "name": "Talisman of the Farmer",
+    "cost": 18,
+    "items": [
+      "farmer_talisman"
+    ]
+  },
+  {
+    "id": "rainbow_armor",
+    "name": "I wanna see the rainbow high in the sky",
+    "cost": 22,
+    "items": [
+      "rainbow_helmet",
+      "rainbow_chestplate",
+      "rainbow_leggings",
+      "rainbow_boots"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:magic_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:infused_magnet",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1163
+}

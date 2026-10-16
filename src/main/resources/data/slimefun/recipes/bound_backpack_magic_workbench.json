@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    {
+      "item": "slimefun:woven_backpack",
+      "count": 1
+    },
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_2",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:bound_backpack",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1184
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:android_memory_core",
+      "count": 1
+    },
+    {
+      "item": "slimefun:plastic_sheet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:nuclear_reactor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:programmable_android_2",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:power_crystal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:programmable_android_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2000
+}

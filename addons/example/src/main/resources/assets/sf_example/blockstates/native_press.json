@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "sf_example:block/native_press"
+    }
+  }
+}
+

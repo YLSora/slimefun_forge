@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:rainbow_leather",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rainbow_chestplate",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 453
+}

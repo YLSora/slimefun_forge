@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_diamond",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:power_crystal",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 647
+}

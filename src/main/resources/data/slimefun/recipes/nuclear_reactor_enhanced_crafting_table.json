@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado_edged_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cooling_unit",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:nuclear_reactor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2516
+}

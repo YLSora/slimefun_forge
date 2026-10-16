@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:gps_transmitter_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_transmitter_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_transmitter_2",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_transmitter_2",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:gps_transmitter_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1910
+}

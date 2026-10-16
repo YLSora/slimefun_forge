@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:prismarine",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:prismarine_shard",
+    "count": 4
+  },
+  "shaped": false
+}

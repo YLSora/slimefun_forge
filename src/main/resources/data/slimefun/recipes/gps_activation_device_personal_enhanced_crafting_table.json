@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_activation_device_shared",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:gps_activation_device_personal",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2294
+}

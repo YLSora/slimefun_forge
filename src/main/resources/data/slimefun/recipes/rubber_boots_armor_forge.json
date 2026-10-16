@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_wool",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:black_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:rubber_boots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 993
+}

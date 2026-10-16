@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado_edged_capacitor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:redstone_alloy",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:energized_capacitor",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1588
+}

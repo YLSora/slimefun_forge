@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:blaze_rod",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:blade_of_vampires",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1092
+}

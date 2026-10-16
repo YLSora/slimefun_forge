@@ -1,0 +1,20 @@
+{
+  "type": "slimefun:machine",
+  "station": "electrified_crucible",
+  "inputs": [
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "item": "minecraft:brown_terracotta",
+      "count": 12
+    }
+  ],
+  "result": {
+    "item": "minecraft:lava_bucket",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 160
+}

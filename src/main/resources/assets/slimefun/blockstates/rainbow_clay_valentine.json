@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "color=0": {
+      "model": "minecraft:block/white_terracotta"
+    },
+    "color=1": {
+      "model": "minecraft:block/orange_terracotta"
+    },
+    "color=2": {
+      "model": "minecraft:block/magenta_terracotta"
+    },
+    "color=3": {
+      "model": "minecraft:block/light_blue_terracotta"
+    },
+    "color=4": {
+      "model": "minecraft:block/yellow_terracotta"
+    },
+    "color=5": {
+      "model": "minecraft:block/lime_terracotta"
+    },
+    "color=6": {
+      "model": "minecraft:block/pink_terracotta"
+    },
+    "color=7": {
+      "model": "minecraft:block/gray_terracotta"
+    },
+    "color=8": {
+      "model": "minecraft:block/light_gray_terracotta"
+    },
+    "color=9": {
+      "model": "minecraft:block/cyan_terracotta"
+    },
+    "color=10": {
+      "model": "minecraft:block/purple_terracotta"
+    },
+    "color=11": {
+      "model": "minecraft:block/blue_terracotta"
+    },
+    "color=12": {
+      "model": "minecraft:block/brown_terracotta"
+    },
+    "color=13": {
+      "model": "minecraft:block/green_terracotta"
+    },
+    "color=14": {
+      "model": "minecraft:block/red_terracotta"
+    },
+    "color=15": {
+      "model": "minecraft:block/black_terracotta"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:basic_circuit_board",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:enhanced_furnace_11",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:reinforced_furnace",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1366
+}

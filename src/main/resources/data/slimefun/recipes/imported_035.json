@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:basic_circuit_board",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:advanced_circuit_board",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 401
+}

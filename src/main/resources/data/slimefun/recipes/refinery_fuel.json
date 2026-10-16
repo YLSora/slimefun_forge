@@ -1,0 +1,8 @@
+{
+  "type": "slimefun:machine",
+  "station": "refinery",
+  "inputs": [{"item": "slimefun:bucket_of_oil", "count": 1}],
+  "result": {"item": "slimefun:bucket_of_fuel", "count": 1},
+  "shaped": false,
+  "ticks": 800
+}

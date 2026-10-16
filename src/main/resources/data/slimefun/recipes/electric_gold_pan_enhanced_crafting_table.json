@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:gold_pan",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:flint",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:flint",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_gold_pan",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1636
+}

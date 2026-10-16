@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:slime_boots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 379
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sf_example:block/inert_block"
+    }
+  }
+}

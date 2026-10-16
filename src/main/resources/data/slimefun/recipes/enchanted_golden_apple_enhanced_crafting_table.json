@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:apple",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_24k_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1310
+}

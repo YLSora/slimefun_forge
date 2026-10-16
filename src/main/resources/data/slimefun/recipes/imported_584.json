@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:glass_pane",
+    "count": 3
+  },
+  "shaped": false,
+  "ticks": 100
+}

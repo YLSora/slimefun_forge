@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silver_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silver_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:cargo_motor",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 2546
+}

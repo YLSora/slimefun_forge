@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:hopper",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:lead_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:output_chest",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 261
+}

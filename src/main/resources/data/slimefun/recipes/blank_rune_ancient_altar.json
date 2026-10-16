@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:blank_rune",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 2012
+}

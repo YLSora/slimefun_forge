@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:silicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:solar_panel",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 823
+}

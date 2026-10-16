@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:feather",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:ink_sac",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magical_book_cover",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:writable_book",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:tome_of_knowledge_sharing",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1407
+}

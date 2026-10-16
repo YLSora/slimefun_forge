@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "slimefun:gold_4k"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:gold_block"
+  },
+  "show_notification": true
+}

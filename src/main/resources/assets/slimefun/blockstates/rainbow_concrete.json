@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "color=0": {
+      "model": "minecraft:block/white_concrete"
+    },
+    "color=1": {
+      "model": "minecraft:block/orange_concrete"
+    },
+    "color=2": {
+      "model": "minecraft:block/magenta_concrete"
+    },
+    "color=3": {
+      "model": "minecraft:block/light_blue_concrete"
+    },
+    "color=4": {
+      "model": "minecraft:block/yellow_concrete"
+    },
+    "color=5": {
+      "model": "minecraft:block/lime_concrete"
+    },
+    "color=6": {
+      "model": "minecraft:block/pink_concrete"
+    },
+    "color=7": {
+      "model": "minecraft:block/gray_concrete"
+    },
+    "color=8": {
+      "model": "minecraft:block/light_gray_concrete"
+    },
+    "color=9": {
+      "model": "minecraft:block/cyan_concrete"
+    },
+    "color=10": {
+      "model": "minecraft:block/purple_concrete"
+    },
+    "color=11": {
+      "model": "minecraft:block/blue_concrete"
+    },
+    "color=12": {
+      "model": "minecraft:block/brown_concrete"
+    },
+    "color=13": {
+      "model": "minecraft:block/green_concrete"
+    },
+    "color=14": {
+      "model": "minecraft:block/red_concrete"
+    },
+    "color=15": {
+      "model": "minecraft:block/black_concrete"
+    }
+  }
+}

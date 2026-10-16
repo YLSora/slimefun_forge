@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "minecraft:lime_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:egg",
+      "count": 1
+    },
+    {
+      "item": "minecraft:purple_dye",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:easter_egg",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 1509
+}

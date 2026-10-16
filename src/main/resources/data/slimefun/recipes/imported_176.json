@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:iron_dust",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:magnet",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1159
+}

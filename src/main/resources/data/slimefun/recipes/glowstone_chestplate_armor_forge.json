@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:glowstone_chestplate",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 430
+}

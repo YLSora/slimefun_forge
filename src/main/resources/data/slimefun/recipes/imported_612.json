@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 9
+    }
+  ],
+  "result": {
+    "item": "minecraft:lapis_block",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 120
+}

@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:dirt",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:stone_chunk",
+    "count": 1
+  },
+  "shaped": false
+}

@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:staff_elemental",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:seismic_axe",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1228
+}

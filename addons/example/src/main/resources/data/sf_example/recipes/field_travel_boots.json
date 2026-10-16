@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["F F","L L"],"key":{"F":{"item":"minecraft:feather"},"L":{"item":"minecraft:leather"}},"result":{"item":"sf_example:field_travel_boots"}}

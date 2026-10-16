@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:corinthian_bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:lava_generator",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:compressed_carbon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:lava_generator_2",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2265
+}

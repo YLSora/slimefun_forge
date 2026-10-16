@@ -1,0 +1,27 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:salt",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cooked_chicken",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:chicken_jerky",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 279
+}

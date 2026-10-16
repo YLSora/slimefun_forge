@@ -1,0 +1,20 @@
+{
+  "type": "slimefun:machine",
+  "station": "electrified_crucible",
+  "inputs": [
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "item": "minecraft:acacia_leaves",
+      "count": 16
+    }
+  ],
+  "result": {
+    "item": "minecraft:water_bucket",
+    "count": 1
+  },
+  "shaped": false,
+  "ticks": 200
+}

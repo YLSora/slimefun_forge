@@ -1,0 +1,28 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    {
+      "item": "slimefun:nether_ice",
+      "count": 1
+    },
+    {
+      "item": "slimefun:plutonium",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:enriched_nether_ice",
+    "count": 4
+  },
+  "shaped": false,
+  "source_line": 2314,
+  "ticks": 1200
+}

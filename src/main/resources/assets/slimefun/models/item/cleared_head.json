@@ -1,0 +1,571 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "slimefun:head",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "skin": "slimefun:block/heads/e9eb9da26cf2d3341397a7f4913ba3d37d1ad10eae30ab25fa39ceb84bc",
+    "particle": "slimefun:block/heads/e9eb9da26cf2d3341397a7f4913ba3d37d1ad10eae30ab25fa39ceb84bc"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        8,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            0,
+            4,
+            2
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            4,
+            2,
+            2,
+            0
+          ],
+          "texture": "#skin"
+        },
+        "north": {
+          "uv": [
+            2,
+            2,
+            4,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            6,
+            2,
+            8,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            4,
+            2,
+            6,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            2,
+            4
+          ],
+          "texture": "#skin"
+        }
+      }
+    },
+    {
+      "from": [
+        3.75,
+        -0.25,
+        3.75
+      ],
+      "to": [
+        12.25,
+        8.25,
+        12.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            0,
+            12,
+            2
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            12,
+            2,
+            10,
+            0
+          ],
+          "texture": "#skin"
+        },
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            14,
+            2,
+            16,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            12,
+            2,
+            14,
+            4
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            8,
+            2,
+            10,
+            4
+          ],
+          "texture": "#skin"
+        }
+      }
+    }
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        45,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "slimefun:skin": 1
+      },
+      "model": "slimefun:item/cleared_armor_auto_crafter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 2
+      },
+      "model": "slimefun:item/cleared_big_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 3
+      },
+      "model": "slimefun:item/cleared_carbonado_edged_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 4
+      },
+      "model": "slimefun:item/cleared_cargo_manager"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 5
+      },
+      "model": "slimefun:item/cleared_cargo_node"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 6
+      },
+      "model": "slimefun:item/cleared_cargo_node_input"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 7
+      },
+      "model": "slimefun:item/cleared_cargo_node_output"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 8
+      },
+      "model": "slimefun:item/cleared_cargo_node_output_advanced"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 9
+      },
+      "model": "slimefun:item/cleared_coal_generator"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 10
+      },
+      "model": "slimefun:item/cleared_coal_generator_2"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 11
+      },
+      "model": "slimefun:item/cleared_combustion_reactor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 12
+      },
+      "model": "slimefun:item/cleared_electric_press"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 13
+      },
+      "model": "slimefun:item/cleared_electric_press_2"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 14
+      },
+      "model": "slimefun:item/cleared_energized_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 15
+      },
+      "model": "slimefun:item/cleared_energy_connector"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 16
+      },
+      "model": "slimefun:item/cleared_energy_regulator"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 17
+      },
+      "model": "slimefun:item/cleared_enhanced_auto_crafter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 18
+      },
+      "model": "slimefun:item/cleared_geo_miner"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 19
+      },
+      "model": "slimefun:item/cleared_gps_control_panel"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 20
+      },
+      "model": "slimefun:item/cleared_gps_geo_scanner"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 21
+      },
+      "model": "slimefun:item/cleared_gps_transmitter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 22
+      },
+      "model": "slimefun:item/cleared_gps_transmitter_2"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 23
+      },
+      "model": "slimefun:item/cleared_gps_transmitter_3"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 24
+      },
+      "model": "slimefun:item/cleared_gps_transmitter_4"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 25
+      },
+      "model": "slimefun:item/cleared_large_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 26
+      },
+      "model": "slimefun:item/cleared_lava_generator"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 27
+      },
+      "model": "slimefun:item/cleared_lava_generator_2"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 28
+      },
+      "model": "slimefun:item/cleared_magnesium_generator"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 29
+      },
+      "model": "slimefun:item/cleared_medium_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 30
+      },
+      "model": "slimefun:item/cleared_missing"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 31
+      },
+      "model": "slimefun:item/cleared_netherstar_reactor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 32
+      },
+      "model": "slimefun:item/cleared_nuclear_reactor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 33
+      },
+      "model": "slimefun:item/cleared_oil_pump"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 34
+      },
+      "model": "slimefun:item/cleared_programmable_android"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 35
+      },
+      "model": "slimefun:item/cleared_programmable_android_2"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 36
+      },
+      "model": "slimefun:item/cleared_programmable_android_2_butcher"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 37
+      },
+      "model": "slimefun:item/cleared_programmable_android_2_farmer"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 38
+      },
+      "model": "slimefun:item/cleared_programmable_android_2_fisherman"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 39
+      },
+      "model": "slimefun:item/cleared_programmable_android_3"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 40
+      },
+      "model": "slimefun:item/cleared_programmable_android_3_butcher"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 41
+      },
+      "model": "slimefun:item/cleared_programmable_android_3_fisherman"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 42
+      },
+      "model": "slimefun:item/cleared_programmable_android_butcher"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 43
+      },
+      "model": "slimefun:item/cleared_programmable_android_farmer"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 44
+      },
+      "model": "slimefun:item/cleared_programmable_android_fisherman"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 45
+      },
+      "model": "slimefun:item/cleared_programmable_android_miner"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 46
+      },
+      "model": "slimefun:item/cleared_programmable_android_woodcutter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 47
+      },
+      "model": "slimefun:item/cleared_refinery"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 48
+      },
+      "model": "slimefun:item/cleared_small_capacitor"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 49
+      },
+      "model": "slimefun:item/cleared_trash_can_block"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 50
+      },
+      "model": "slimefun:item/cleared_vanilla_auto_crafter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 51
+      },
+      "model": "slimefun:item/cleared_xp_collector"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 52
+      },
+      "model": "slimefun:item/cleared_butter"
+    },
+    {
+      "predicate": {
+        "slimefun:skin": 53
+      },
+      "model": "slimefun:item/cleared_cheese"
+    }
+  ]
+}

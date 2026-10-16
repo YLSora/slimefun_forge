@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "item": "slimefun:gold_4k"
+      }
+    ]
+  },
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "item": "minecraft:golden_chestplate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:can",
+      "count": 1
+    },
+    {
+      "item": "minecraft:apple",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "minecraft:sugar",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:vitamins",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1054
+}

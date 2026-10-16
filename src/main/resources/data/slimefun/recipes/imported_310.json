@@ -1,0 +1,25 @@
+{
+  "type": "slimefun:machine",
+  "station": "heated_pressure_chamber",
+  "inputs": [
+    null,
+    null,
+    null,
+    null,
+    {
+      "item": "slimefun:bucket_of_oil",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:plastic_sheet",
+    "count": 8
+  },
+  "shaped": false,
+  "source_line": 1871,
+  "ticks": 900
+}

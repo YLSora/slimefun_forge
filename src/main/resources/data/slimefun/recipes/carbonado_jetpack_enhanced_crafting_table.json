@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:carbon_chunk",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:carbon_chunk",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:power_crystal",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_thruster",
+      "count": 1
+    },
+    {
+      "item": "slimefun:large_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:steel_thruster",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:carbonado_jetpack",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 681
+}

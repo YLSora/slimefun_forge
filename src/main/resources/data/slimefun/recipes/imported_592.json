@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "slimefun:copper_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:copper_wire",
+    "count": 3
+  },
+  "shaped": false,
+  "ticks": 120
+}

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_eye_of_ender",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magician_talisman",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_eye_of_ender",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:wizard_talisman",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 945
+}

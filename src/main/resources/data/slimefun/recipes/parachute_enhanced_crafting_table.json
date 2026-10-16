@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:chain",
+      "count": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:parachute",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 691
+}

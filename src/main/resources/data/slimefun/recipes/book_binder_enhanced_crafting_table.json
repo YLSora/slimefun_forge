@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:enchanting_table",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:bookshelf",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:bookshelf",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    },
+    {
+      "item": "slimefun:small_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:synthetic_sapphire",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:book_binder",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1860
+}

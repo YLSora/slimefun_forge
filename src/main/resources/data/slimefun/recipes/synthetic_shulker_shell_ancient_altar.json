@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "ancient_altar",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_ender",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:turtle_helmet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_ender",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:synthetic_shulker_shell",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1179
+}

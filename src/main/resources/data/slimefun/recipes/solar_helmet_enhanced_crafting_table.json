@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:solar_panel",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:solar_helmet",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 827
+}

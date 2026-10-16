@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:chests/wooden"
+    },
+    "-": [
+      {
+        "item": "minecraft:shulker_shell"
+      },
+      {
+        "item": "slimefun:synthetic_shulker_shell"
+      }
+    ]
+  },
+  "pattern": [
+    "-",
+    "#",
+    "-"
+  ],
+  "result": {
+    "item": "minecraft:shulker_box"
+  },
+  "show_notification": true
+}

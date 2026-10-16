@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:christmas_caramel",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:apple",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:christmas_caramel_apple",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 1473
+}

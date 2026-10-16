@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "food_composter",
+  "inputs": [
+    {
+      "item": "slimefun:organic_food_melon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:fertilizer_melon",
+    "count": 2
+  },
+  "shaped": false,
+  "ticks": 600
+}

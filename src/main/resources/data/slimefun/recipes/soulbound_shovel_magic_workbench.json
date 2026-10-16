@@ -1,0 +1,30 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "minecraft:diamond_shovel",
+      "count": 1
+    },
+    null,
+    null,
+    {
+      "item": "slimefun:essence_of_afterlife",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:soulbound_shovel",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1260
+}

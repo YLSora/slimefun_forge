@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:sulfate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:zinc_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:sulfate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:copper_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:battery",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 426
+}

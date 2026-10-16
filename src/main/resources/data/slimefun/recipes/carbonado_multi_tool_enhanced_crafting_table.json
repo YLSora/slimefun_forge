@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    {
+      "item": "slimefun:large_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:carbonado",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:carbonado_multi_tool",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 763
+}

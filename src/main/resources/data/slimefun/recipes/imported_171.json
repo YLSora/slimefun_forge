@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_14k",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_backpack",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_14k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:large_backpack",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1137
+}

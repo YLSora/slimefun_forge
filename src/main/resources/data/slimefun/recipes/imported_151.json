@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:splint",
+    "count": 4
+  },
+  "shaped": true,
+  "source_line": 1044
+}

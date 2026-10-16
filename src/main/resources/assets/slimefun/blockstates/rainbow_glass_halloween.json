@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "color=0": {
+      "model": "slimefun:block/rainbow_white_stained_glass"
+    },
+    "color=1": {
+      "model": "slimefun:block/rainbow_orange_stained_glass"
+    },
+    "color=2": {
+      "model": "slimefun:block/rainbow_magenta_stained_glass"
+    },
+    "color=3": {
+      "model": "slimefun:block/rainbow_light_blue_stained_glass"
+    },
+    "color=4": {
+      "model": "slimefun:block/rainbow_yellow_stained_glass"
+    },
+    "color=5": {
+      "model": "slimefun:block/rainbow_lime_stained_glass"
+    },
+    "color=6": {
+      "model": "slimefun:block/rainbow_pink_stained_glass"
+    },
+    "color=7": {
+      "model": "slimefun:block/rainbow_gray_stained_glass"
+    },
+    "color=8": {
+      "model": "slimefun:block/rainbow_light_gray_stained_glass"
+    },
+    "color=9": {
+      "model": "slimefun:block/rainbow_cyan_stained_glass"
+    },
+    "color=10": {
+      "model": "slimefun:block/rainbow_purple_stained_glass"
+    },
+    "color=11": {
+      "model": "slimefun:block/rainbow_blue_stained_glass"
+    },
+    "color=12": {
+      "model": "slimefun:block/rainbow_brown_stained_glass"
+    },
+    "color=13": {
+      "model": "slimefun:block/rainbow_green_stained_glass"
+    },
+    "color=14": {
+      "model": "slimefun:block/rainbow_red_stained_glass"
+    },
+    "color=15": {
+      "model": "slimefun:block/rainbow_black_stained_glass"
+    }
+  }
+}

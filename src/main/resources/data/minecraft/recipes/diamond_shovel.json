@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": [
+      {
+        "tag": "forge:gems/diamond"
+      },
+      {
+        "item": "slimefun:synthetic_diamond"
+      }
+    ]
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "show_notification": true
+}

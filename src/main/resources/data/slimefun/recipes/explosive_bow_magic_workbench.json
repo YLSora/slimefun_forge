@@ -1,0 +1,39 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 1
+    },
+    {
+      "item": "slimefun:staff_elemental_fire",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:sulfate",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:explosive_bow",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1399
+}

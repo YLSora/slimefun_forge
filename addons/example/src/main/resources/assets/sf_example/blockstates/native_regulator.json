@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sf_example:block/native_regulator",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "sf_example:block/native_regulator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sf_example:block/native_regulator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sf_example:block/native_regulator",
+      "y": 270
+    }
+  }
+}

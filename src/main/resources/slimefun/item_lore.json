@@ -1,0 +1,2217 @@
+{
+  "portable_crafter": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "portable_dustbin": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "ender_backpack": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "magic_eye_of_ender": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "broken_spawner": {
+    "en_us": 2,
+    "zh_cn": 3
+  },
+  "reinforced_spawner": {
+    "en_us": 0,
+    "zh_cn": 1
+  },
+  "infernal_bonemeal": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "tape_measure": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gold_pan": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "nether_gold_pan": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "parachute": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "grappling_hook": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "solar_helmet": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "cloth": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_cloth": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "can": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "night_vision_goggles": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "elytra_cap": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "farmer_shoes": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "infused_magnet": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "rag": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "bandage": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "splint": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "vitamins": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "medicine": {
+    "en_us": 6,
+    "zh_cn": 8
+  },
+  "magical_zombie_pills": {
+    "en_us": 4,
+    "zh_cn": 2
+  },
+  "flask_of_knowledge": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "filled_flask_of_knowledge": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "small_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "medium_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "large_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "woven_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "gilded_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "radiant_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "bound_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "cooler": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "restored_backpack": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "duralumin_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "solder_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "billon_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "steel_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "damascus_steel_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "reinforced_alloy_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "carbonado_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "armored_jetpack": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "duralumin_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "solder_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "billon_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "steel_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "damascus_steel_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "reinforced_alloy_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "carbonado_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "armored_jetboots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "duralumin_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "solder_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "billon_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "steel_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "damascus_steel_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "reinforced_alloy_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "carbonado_multi_tool": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "fortune_cookie": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "diet_cookie": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magic_sugar": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "monster_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "apple_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "melon_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "carrot_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "pumpkin_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "sweet_berry_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "glow_berry_juice": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "golden_apple_juice": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "beef_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "pork_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "chicken_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "mutton_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rabbit_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "fish_jerky": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "kelp_cookie": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_milk": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "christmas_chocolate_milk": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "christmas_egg_nog": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "christmas_apple_cider": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "christmas_cookie": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_fruit_cake": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_apple_pie": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_hot_chocolate": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "christmas_cake": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_caramel": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_caramel_apple": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_chocolate_apple": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "christmas_present": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "easter_egg": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "carrot_pie": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "easter_apple_pie": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "grandmas_walking_stick": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "grandpas_walking_stick": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "sword_of_beheading": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "blade_of_vampires": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "seismic_axe": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "explosive_bow": {
+    "en_us": 2,
+    "zh_cn": 1
+  },
+  "icy_bow": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "smelters_pickaxe": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "lumber_axe": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "pickaxe_of_containment": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "explosive_pickaxe": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "explosive_shovel": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "pickaxe_of_the_seeker": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "cobalt_pickaxe": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "pickaxe_of_vein_mining": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "climbing_pick": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "glowstone_helmet": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "glowstone_chestplate": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "glowstone_leggings": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "glowstone_boots": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "rainbow_leather": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_helmet": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_chestplate": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_leggings": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_boots": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_helmet": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_chestplate": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_leggings": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_boots": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "slime_helmet": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "slime_chestplate": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "slime_leggings": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "slime_boots": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "cactus_helmet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cactus_chestplate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cactus_leggings": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cactus_boots": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "damascus_steel_helmet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "damascus_steel_chestplate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "damascus_steel_leggings": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "damascus_steel_boots": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_alloy_helmet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_alloy_chestplate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_alloy_leggings": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_alloy_boots": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "scuba_helmet": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "hazmat_chestplate": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "hazmat_leggings": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "rubber_boots": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "gilded_iron_helmet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gilded_iron_chestplate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gilded_iron_leggings": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gilded_iron_boots": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_12k_helmet": {
+    "en_us": 0,
+    "zh_cn": 1
+  },
+  "gold_12k_chestplate": {
+    "en_us": 0,
+    "zh_cn": 1
+  },
+  "gold_12k_leggings": {
+    "en_us": 0,
+    "zh_cn": 1
+  },
+  "gold_12k_boots": {
+    "en_us": 0,
+    "zh_cn": 1
+  },
+  "slime_steel_helmet": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "slime_steel_chestplate": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "slime_steel_leggings": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "slime_steel_boots": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "boots_of_the_stomper": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "bee_helmet": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "bee_wings": {
+    "en_us": 5,
+    "zh_cn": 6
+  },
+  "bee_leggings": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "bee_boots": {
+    "en_us": 5,
+    "zh_cn": 6
+  },
+  "magic_lump_1": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magic_lump_2": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magic_lump_3": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_lump_1": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_lump_2": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ender_lump_3": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magical_book_cover": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magical_glass": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "synthetic_shulker_shell": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "basic_circuit_board": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "advanced_circuit_board": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "wheat_flour": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "steel_plate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "battery": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "carbon": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "compressed_carbon": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "carbon_chunk": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "steel_thruster": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "power_crystal": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "chain": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "hook": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "sifted_ore": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "stone_chunk": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "lava_crystal": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "salt": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cheese": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "butter": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "duct_tape": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "heavy_cream": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "crushed_ore": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "pulverized_ore": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "pure_ore_cluster": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "small_uranium": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "tiny_uranium": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "solar_panel": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "plastic_sheet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "magnet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "necrotic_skull": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "essence_of_afterlife": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "strange_nether_goo": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "electro_magnet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "heating_coil": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cooling_unit": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "electric_motor": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cargo_motor": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "scroll_of_dimensional_teleposition": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "tome_of_knowledge_sharing": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "hardened_glass": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "wither_proof_obsidian": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "wither_proof_glass": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "reinforced_plate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_pedestal": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ancient_altar": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "copper_wire": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "crafting_motor": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_wool": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_clay": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_pane": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_concrete": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glazed_terracotta": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_wool_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_clay_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_pane_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_concrete_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glazed_terracotta_xmas": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_wool_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_clay_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_pane_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_concrete_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glazed_terracotta_valentine": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_wool_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_clay_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glass_pane_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_concrete_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "rainbow_glazed_terracotta_halloween": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "copper_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "tin_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "silver_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "aluminum_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "lead_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "zinc_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "magnesium_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "steel_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "bronze_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "duralumin_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "billon_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "brass_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "aluminum_brass_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "aluminum_bronze_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "corinthian_bronze_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "solder_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "damascus_steel_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "hardened_metal_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "reinforced_alloy_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ferrosilicon": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gilded_iron": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "redstone_alloy": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "nickel_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cobalt_ingot": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_4k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_6k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_8k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_10k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_12k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_14k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_16k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_18k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_20k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_22k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_24k": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "iron_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "tin_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "copper_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "silver_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "aluminum_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "lead_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "zinc_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "magnesium_dust": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "sulfate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "silicon": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gold_24k_block": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "synthetic_diamond": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "synthetic_emerald": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "synthetic_sapphire": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "carbonado": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "raw_carbonado": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "uranium": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "neptunium": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "plutonium": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "boosted_uranium": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "common_talisman": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ender_talisman": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "anvil_talisman": {
+    "en_us": 9,
+    "zh_cn": 8
+  },
+  "miner_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "farmer_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "hunter_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "lava_talisman": {
+    "en_us": 6,
+    "zh_cn": 5
+  },
+  "water_talisman": {
+    "en_us": 7,
+    "zh_cn": 5
+  },
+  "angel_talisman": {
+    "en_us": 5,
+    "zh_cn": 3
+  },
+  "fire_talisman": {
+    "en_us": 6,
+    "zh_cn": 5
+  },
+  "magician_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "traveller_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "warrior_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "knight_talisman": {
+    "en_us": 6,
+    "zh_cn": 5
+  },
+  "whirlwind_talisman": {
+    "en_us": 6,
+    "zh_cn": 4
+  },
+  "wizard_talisman": {
+    "en_us": 6,
+    "zh_cn": 5
+  },
+  "caveman_talisman": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "wise_talisman": {
+    "en_us": 5,
+    "zh_cn": 3
+  },
+  "staff_elemental": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "staff_elemental_wind": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "staff_elemental_fire": {
+    "en_us": 2,
+    "zh_cn": 4
+  },
+  "staff_elemental_water": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "staff_elemental_storm": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_crafting_table": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "grind_stone": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "armor_forge": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "makeshift_smeltery": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "smeltery": {
+    "en_us": 4,
+    "zh_cn": 2
+  },
+  "ore_crusher": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "compressor": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "pressure_chamber": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "magic_workbench": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "ore_washer": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "table_saw": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "juicer": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "automated_panning_machine": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "industrial_miner": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "advanced_industrial_miner": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "composter": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "crucible": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "output_chest": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "ignition_chamber": {
+    "en_us": 4,
+    "zh_cn": 3
+  },
+  "hologram_projector": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "block_placer": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "enhanced_furnace": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_4": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_5": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_6": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_7": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_8": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_9": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_10": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "enhanced_furnace_11": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "reinforced_furnace": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "carbonado_edged_furnace": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "soulbound_sword": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_bow": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_pickaxe": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_axe": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_shovel": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_hoe": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_trident": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_helmet": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_chestplate": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_leggings": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_boots": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "blank_rune": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_air": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_water": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_fire": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_earth": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_ender": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_rainbow": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_lightning": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "ancient_rune_soulbound": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "ancient_rune_enchantment": {
+    "en_us": 2,
+    "zh_cn": 3
+  },
+  "ancient_rune_villagers": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "solar_generator": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "solar_generator_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "solar_generator_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "solar_generator_4": {
+    "en_us": 7,
+    "zh_cn": 9
+  },
+  "coal_generator": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "coal_generator_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "lava_generator": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "lava_generator_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_furnace": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_furnace_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_furnace_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_ore_grinder": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "electric_ore_grinder_2": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "electric_ore_grinder_3": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "electric_ingot_pulverizer": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "auto_drier": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_enchanter": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_enchanter_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_disenchanter": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_disenchanter_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_anvil": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_anvil_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "auto_brewer": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "book_binder": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "bio_reactor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "multimeter": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "small_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "medium_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "big_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "large_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "carbonado_edged_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "energized_capacitor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_farmer": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_miner": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_woodcutter": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_butcher": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_fisherman": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_2": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_2_fisherman": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_2_farmer": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_2_butcher": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_3": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "programmable_android_3_fisherman": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "programmable_android_3_butcher": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "gps_transmitter": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_transmitter_2": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_transmitter_3": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_transmitter_4": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_marker_tool": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_control_panel": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "gps_emergency_transmitter": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "android_interface_fuel": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "android_interface_items": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "gps_geo_scanner": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "portable_geo_scanner": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "geo_miner": {
+    "en_us": 9,
+    "zh_cn": 9
+  },
+  "oil_pump": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "bucket_of_oil": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "bucket_of_fuel": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "refinery": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "combustion_reactor": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "android_memory_core": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "gps_teleporter_pylon": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "gps_teleportation_matrix": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "gps_activation_device_shared": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "gps_activation_device_personal": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "portable_teleporter": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "elevator_plate": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "infused_hopper": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "heated_pressure_chamber": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "heated_pressure_chamber_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_smeltery": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "electric_smeltery_2": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "electric_press": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_press_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electrified_crucible": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electrified_crucible_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electrified_crucible_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "carbon_press": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "carbon_press_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "carbon_press_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "blistering_ingot": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "blistering_ingot_2": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "blistering_ingot_3": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "energy_regulator": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "energy_connector": {
+    "en_us": 5,
+    "zh_cn": 4
+  },
+  "debug_fish": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "nether_ice": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "enriched_nether_ice": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "nether_ice_coolant_cell": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "cargo_manager": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "cargo_node": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "cargo_node_input": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "cargo_node_output": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "cargo_node_output_advanced": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "auto_breeder": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "produce_collector": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "organic_food": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_wheat": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_carrot": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_potato": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_seeds": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_beetroot": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_melon": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_apple": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_sweet_berries": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_kelp": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_cocoa": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "organic_food_seagrass": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_wheat": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_carrot": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_potato": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_seeds": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_beetroot": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_melon": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_apple": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_sweet_berries": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_kelp": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_cocoa": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "fertilizer_seagrass": {
+    "en_us": 1,
+    "zh_cn": 1
+  },
+  "animal_growth_accelerator": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "crop_growth_accelerator": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "crop_growth_accelerator_2": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "tree_growth_accelerator": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "food_fabricator": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "food_fabricator_2": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "food_composter": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "food_composter_2": {
+    "en_us": 7,
+    "zh_cn": 7
+  },
+  "xp_collector": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "reactor_collant_cell": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "nuclear_reactor": {
+    "en_us": 8,
+    "zh_cn": 8
+  },
+  "netherstar_reactor": {
+    "en_us": 9,
+    "zh_cn": 9
+  },
+  "reactor_access_port": {
+    "en_us": 6,
+    "zh_cn": 5
+  },
+  "freezer": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "freezer_2": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "freezer_3": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "electric_gold_pan": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_gold_pan_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_gold_pan_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_dust_washer": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_dust_washer_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_dust_washer_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_ingot_factory": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_ingot_factory_2": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "electric_ingot_factory_3": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "fluid_pump": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "charging_bench": {
+    "en_us": 6,
+    "zh_cn": 6
+  },
+  "vanilla_auto_crafter": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "enhanced_auto_crafter": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "armor_auto_crafter": {
+    "en_us": 8,
+    "zh_cn": 6
+  },
+  "iron_golem_assembler": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "wither_assembler": {
+    "en_us": 5,
+    "zh_cn": 5
+  },
+  "trash_can_block": {
+    "en_us": 2,
+    "zh_cn": 2
+  },
+  "elytra_scale": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "infused_elytra": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "soulbound_elytra": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "magnesium_salt": {
+    "en_us": 3,
+    "zh_cn": 2
+  },
+  "magnesium_generator": {
+    "en_us": 4,
+    "zh_cn": 4
+  },
+  "guide": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "creative_guide": {
+    "en_us": 3,
+    "zh_cn": 3
+  },
+  "ender_anvil_talisman": {
+    "en_us": 11,
+    "zh_cn": 10
+  },
+  "ender_miner_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_farmer_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_hunter_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_lava_talisman": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "ender_water_talisman": {
+    "en_us": 9,
+    "zh_cn": 7
+  },
+  "ender_angel_talisman": {
+    "en_us": 7,
+    "zh_cn": 5
+  },
+  "ender_fire_talisman": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "ender_magician_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_traveller_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_warrior_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_knight_talisman": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "ender_caveman_talisman": {
+    "en_us": 7,
+    "zh_cn": 6
+  },
+  "ender_wise_talisman": {
+    "en_us": 7,
+    "zh_cn": 5
+  },
+  "ender_whirlwind_talisman": {
+    "en_us": 8,
+    "zh_cn": 6
+  },
+  "ender_wizard_talisman": {
+    "en_us": 8,
+    "zh_cn": 7
+  },
+  "birthday_cake": {
+    "en_us": 0,
+    "zh_cn": 0
+  },
+  "crafter_smart_port": {
+    "zh_cn": 3
+  }
+}

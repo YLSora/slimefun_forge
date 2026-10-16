@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "sf_example:native_press",
+  "inputs": [
+    {
+      "item": "sf_example:compressed_iron",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "sf_example:iron_token",
+    "count": 3
+  },
+  "ticks": 20
+}
+

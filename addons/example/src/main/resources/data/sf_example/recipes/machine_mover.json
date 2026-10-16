@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "sf_example:iron_token"
+    }
+  ],
+  "result": {
+    "item": "sf_example:machine_mover"
+  }
+}
+

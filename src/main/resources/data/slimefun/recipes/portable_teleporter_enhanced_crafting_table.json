@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_transmitter_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gps_teleportation_matrix",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:portable_teleporter",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2286
+}

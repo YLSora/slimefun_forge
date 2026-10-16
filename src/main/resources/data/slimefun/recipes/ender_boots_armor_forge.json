@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    null,
+    null,
+    null,
+    {
+      "item": "slimefun:ender_lump_1",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:ender_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ender_boots",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 350
+}

@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ancient_rune_fire",
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magic_lump_1",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:lava_crystal",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 832
+}

@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:ender_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ender_lump_1",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:ender_leggings",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 346
+}

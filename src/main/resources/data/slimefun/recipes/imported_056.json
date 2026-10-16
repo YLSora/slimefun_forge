@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "slimefun:aluminum_dust",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "item": "slimefun:aluminum_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:synthetic_sapphire",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 523
+}

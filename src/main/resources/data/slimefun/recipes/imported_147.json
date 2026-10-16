@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "smeltery",
+  "inputs": [
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:ferrosilicon",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:redstone_alloy",
+    "count": 1
+  },
+  "shaped": false,
+  "source_line": 1021
+}

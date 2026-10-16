@@ -1,0 +1,36 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    null,
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cargo_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:oil_pump",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:fluid_pump",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2578
+}

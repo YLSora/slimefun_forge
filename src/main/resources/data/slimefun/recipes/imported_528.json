@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "compressor",
+  "inputs": [
+    {
+      "item": "minecraft:coal_block",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "slimefun:carbon",
+    "count": 9
+  },
+  "shaped": false
+}

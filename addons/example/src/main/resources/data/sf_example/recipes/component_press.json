@@ -1,0 +1,16 @@
+{
+  "type": "slimefun:machine",
+  "station": "electric_press",
+  "inputs": [
+    {
+      "item": "sf_example:colored_component",
+      "nbt": "{\"sf_example\":{\"color\":0}}",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "sf_example:iron_token",
+    "count": 2
+  },
+  "ticks": 20
+}

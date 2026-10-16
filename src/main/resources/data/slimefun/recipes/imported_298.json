@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:medium_capacitor",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:damascus_steel_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_press",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1794
+}

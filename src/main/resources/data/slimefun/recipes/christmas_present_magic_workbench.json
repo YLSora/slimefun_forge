@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "magic_workbench",
+  "inputs": [
+    null,
+    {
+      "item": "minecraft:name_tag",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:red_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:green_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:green_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:red_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:christmas_present",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1483
+}

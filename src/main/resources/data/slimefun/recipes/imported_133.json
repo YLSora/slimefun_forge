@@ -1,0 +1,24 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "minecraft:milk_bucket",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:heavy_cream",
+    "count": 2
+  },
+  "shaped": true,
+  "source_line": 958
+}

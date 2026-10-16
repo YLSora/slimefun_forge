@@ -1,0 +1,33 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:nickel_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:magnet",
+      "count": 1
+    },
+    {
+      "item": "slimefun:cobalt_ingot",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:battery",
+      "count": 1
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "result": {
+    "item": "slimefun:electro_magnet",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1374
+}

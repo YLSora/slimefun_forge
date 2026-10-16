@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:heating_coil",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electric_ore_grinder_2",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_plate",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:electric_ore_grinder_3",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 1734
+}

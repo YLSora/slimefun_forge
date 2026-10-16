@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:basalt",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "minecraft:blackstone",
+    "count": 1
+  },
+  "shaped": false
+}

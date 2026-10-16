@@ -1,0 +1,45 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "minecraft:orange_wool",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:orange_wool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_wool",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:hazmat_chestplate",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 984
+}

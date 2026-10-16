@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    {
+      "item": "slimefun:elytra_scale",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather_helmet",
+      "count": 1
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:elytra_cap",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2668
+}

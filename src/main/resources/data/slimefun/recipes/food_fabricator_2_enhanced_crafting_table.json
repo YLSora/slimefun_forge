@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:hardened_metal_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:food_fabricator",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    null,
+    {
+      "item": "slimefun:electro_magnet",
+      "count": 1
+    },
+    null
+  ],
+  "result": {
+    "item": "slimefun:food_fabricator_2",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2331
+}

@@ -1,0 +1,15 @@
+{
+  "type": "slimefun:machine",
+  "station": "grind_stone",
+  "inputs": [
+    {
+      "item": "minecraft:red_sandstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_sand",
+    "count": 4
+  },
+  "shaped": false
+}

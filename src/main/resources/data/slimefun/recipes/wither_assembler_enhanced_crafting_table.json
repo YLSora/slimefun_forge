@@ -1,0 +1,48 @@
+{
+  "type": "slimefun:machine",
+  "station": "enhanced_crafting_table",
+  "inputs": [
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "slimefun:blistering_ingot_3",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:android_memory_core",
+      "count": 1
+    },
+    {
+      "item": "slimefun:wither_proof_obsidian",
+      "count": 1
+    },
+    {
+      "item": "slimefun:electric_motor",
+      "count": 1
+    },
+    {
+      "item": "slimefun:reinforced_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "slimefun:carbonado_edged_capacitor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:wither_assembler",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2625
+}

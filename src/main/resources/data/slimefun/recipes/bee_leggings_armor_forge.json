@@ -1,0 +1,42 @@
+{
+  "type": "slimefun:machine",
+  "station": "armor_forge",
+  "inputs": [
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:honey_block",
+      "count": 1
+    },
+    {
+      "item": "slimefun:gold_8k",
+      "count": 1
+    },
+    {
+      "item": "minecraft:honeycomb_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:honeycomb_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:honeycomb_block",
+      "count": 1
+    },
+    null,
+    {
+      "item": "minecraft:honeycomb_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "slimefun:bee_leggings",
+    "count": 1
+  },
+  "shaped": true,
+  "source_line": 2643
+}
