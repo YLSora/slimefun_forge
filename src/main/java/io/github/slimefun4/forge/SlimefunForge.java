@@ -140,7 +140,7 @@ public final class SlimefunForge {
                     default -> throw new IllegalArgumentException("Unknown storage block: "+entry.id());
                 });
                 STORAGE_BLOCKS.put(entry.id(),block);
-                CONTENT.put(entry.id(),ITEMS.register(entry.id(),() -> new ResearchBlockItem(block.get())));
+                CONTENT.put(entry.id(),ITEMS.register(entry.id(),() -> entry.id().equals("output_chest")?new OutputChestItem(block.get()):new ResearchBlockItem(block.get())));
             } else if(entry.behavior().equals("resistant")) {
                 RegistryObject<Block> block=BLOCKS.register(entry.id(),() -> new ResistantBlock(entry));
                 RESISTANT_BLOCKS.put(entry.id(),block);
