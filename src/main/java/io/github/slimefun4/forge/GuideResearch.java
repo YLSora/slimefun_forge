@@ -16,27 +16,27 @@ import io.github.slimefun4.forge.api.ResearchUnlockEvent;
 
 /** Paid learning survives logout and normal restart in the native player save. */
 final class GuideResearch {
-    private record Learning(Catalog.Research research,long due) {}
-    private static final Map<ServerPlayer,Learning> ACTIVE=new IdentityHashMap<>();
+    private record Learning(ServerPlayer player,Catalog.Research research,long due) {}
+    private static final Set<Learning> ACTIVE=Collections.newSetFromMap(new IdentityHashMap<>());
     private static final Set<ServerPlayer> REQUESTING=Collections.newSetFromMap(new IdentityHashMap<>());
     private record Deferred(ServerPlayer player,Catalog.Research research,long due,boolean progress,boolean paid) {}
     private static final List<Deferred> DEFERRED=new ArrayList<>();
     static void share(ServerPlayer player,Catalog.Research research){
         if(!MinecraftForge.EVENT_BUS.post(new ResearchUnlockEvent(player,new net.minecraft.resources.ResourceLocation(AddonContent.commandId(research)))))DEFERRED.add(new Deferred(player,research,(long)player.server.getTickCount()+1,false,false));
     }
-    static void cancel(ServerPlayer player){ACTIVE.remove(player);DEFERRED.removeIf(d->d.player()==player);var settings=Guide.preferences(player);settings.remove("learning");settings.remove("learning_due");}
+    static void cancel(ServerPlayer player){ACTIVE.removeIf(l->l.player()==player);DEFERRED.removeIf(d->d.player()==player);Guide.preferences(player).remove("learning");}
     static boolean cancel(ServerPlayer player,Catalog.Research research){
         boolean changed=DEFERRED.removeIf(d->d.player()==player&&d.research().id().equals(research.id()));
-        var active=ACTIVE.get(player);if(active!=null&&active.research().id().equals(research.id())){ACTIVE.remove(player);changed=true;}
-        var settings=Guide.preferences(player);if(settings.getString("learning").equals(research.id())){settings.remove("learning");settings.remove("learning_due");changed=true;}
+        changed|=ACTIVE.removeIf(l->l.player()==player&&l.research().id().equals(research.id()));
+        var pending=Guide.preferences(player).getCompound("learning");changed|=pending.contains(research.id());pending.remove(research.id());
         return changed;
     }
-    static boolean unlock(ServerPlayer player,Catalog.Research research,ItemStack source){
-        var data=ResearchData.get(player);if(!ResearchSettings.enabled(research)||data.completed(player,research)||ACTIVE.containsKey(player)||DEFERRED.stream().anyMatch(d->d.player()==player&&d.paid())||!REQUESTING.add(player))return false;
+    static boolean unlock(ServerPlayer player,Catalog.Research research,String id){
+        var data=ResearchData.get(player);if(!ResearchSettings.enabled(research)||data.completed(player,research)||ACTIVE.stream().anyMatch(l->l.player()==player&&l.research().id().equals(research.id()))||DEFERRED.stream().anyMatch(d->d.player()==player&&d.paid()&&d.research().id().equals(research.id()))||!REQUESTING.add(player))return false;
         try{
-        var pre=new io.github.slimefun4.forge.api.PlayerPreResearchEvent(player,new net.minecraft.resources.ResourceLocation(AddonContent.commandId(research)),net.minecraftforge.registries.ForgeRegistries.ITEMS.getKey(source.getItem()));
+        var pre=new io.github.slimefun4.forge.api.PlayerPreResearchEvent(player,new net.minecraft.resources.ResourceLocation(AddonContent.commandId(research)),net.minecraftforge.registries.ForgeRegistries.ITEMS.getKey(GuideContent.icon(id).getItem()));
         if(MinecraftForge.EVENT_BUS.post(pre)||data.completed(player,research))return false;
-        String id=ItemAccess.id(source);if(id==null||!ItemAccess.enabled(player.level(),id)||!ItemAccess.permitted(player,id)||!ResearchSettings.enabled(research))return false;
+        if(!ItemAccess.enabled(player.level(),id)||!ItemAccess.permitted(player,id)||!ResearchSettings.enabled(research))return false;
         if(!data.pay(player,research)){Messages.chat(player,Component.translatable("message.slimefun.not_enough_xp"));return false;}
         boolean instant=player.isCreative()&&Guide.FREE_CREATIVE.get()||Guide.NO_ANIMATION.get()||!Guide.option(player,"animation");
         if(instant){if(MinecraftForge.EVENT_BUS.post(new ResearchUnlockEvent(player,new net.minecraft.resources.ResourceLocation(AddonContent.commandId(research)))))return false;DEFERRED.add(new Deferred(player,research,(long)player.server.getTickCount()+1,false,true));return true;}
@@ -44,8 +44,8 @@ final class GuideResearch {
         DEFERRED.add(new Deferred(player,research,(long)player.server.getTickCount()+5,true,false));
         if(MinecraftForge.EVENT_BUS.post(new ResearchUnlockEvent(player,new net.minecraft.resources.ResourceLocation(AddonContent.commandId(research)))))return false;
         long due=player.server.overworld().getGameTime()+100;
-        var settings=Guide.preferences(player);settings.putString("learning",research.id());settings.putLong("learning_due",due);
-        ACTIVE.put(player,new Learning(research,due));Messages.chat(player,Guide.text(player,"learning_start",Component.translatable(AddonContent.researchKey(research))));
+        var settings=Guide.preferences(player);var pending=settings.getCompound("learning");pending.putLong(research.id(),due);settings.put("learning",pending);
+        ACTIVE.add(new Learning(player,research,due));Messages.chat(player,Guide.text(player,"learning_start",Component.translatable(AddonContent.researchKey(research))));
         return true;
         }finally{REQUESTING.remove(player);}
     }
@@ -54,7 +54,7 @@ final class GuideResearch {
         Messages.chat(player,Guide.text(player,"learning",Component.translatable(AddonContent.researchKey(research)),percent+"%"));
     }
     static void finish(ServerPlayer player,Catalog.Research research,boolean given){
-        if(Guide.preferences(player).getString("learning").equals(research.id()))cancel(player);
+        cancel(player,research);
         if(ResearchData.get(player).completed(player,research))return;complete(player,research,given);
     }
     private static void complete(ServerPlayer player,Catalog.Research research,boolean given){
@@ -79,14 +79,17 @@ final class GuideResearch {
         if(player.containerMenu instanceof GuideMenu menu)menu.refresh();
     }
     private static void resume(ServerPlayer player){
-        var settings=Guide.preferences(player);String id=settings.getString("learning");if(id.isEmpty())return;
-        var research=ResearchData.all().stream().filter(r->r.id().equals(id)).findFirst().orElseThrow(()->new IllegalStateException("Unknown paid research "+id));
-        ACTIVE.put(player,new Learning(research,settings.getLong("learning_due")));
+        ACTIVE.removeIf(l->l.player()==player);
+        var pending=Guide.preferences(player).getCompound("learning");
+        for(String id:pending.getAllKeys()){
+            var research=ResearchData.all().stream().filter(r->r.id().equals(id)).findFirst().orElseThrow(()->new IllegalStateException("Unknown paid research "+id));
+            ACTIVE.add(new Learning(player,research,pending.getLong(id)));
+        }
     }
     @SubscribeEvent public static void joined(PlayerEvent.PlayerLoggedInEvent event){if(event.getEntity() instanceof ServerPlayer player)resume(player);}
     @SubscribeEvent public static void respawn(PlayerEvent.PlayerRespawnEvent event){if(event.getEntity() instanceof ServerPlayer player)resume(player);}
-    @SubscribeEvent public static void logout(PlayerEvent.PlayerLoggedOutEvent event){if(event.getEntity() instanceof ServerPlayer player)ACTIVE.remove(player);}
-    @SubscribeEvent public static void stopped(ServerStoppedEvent event){ACTIVE.keySet().removeIf(p->p.server==event.getServer());DEFERRED.removeIf(s->s.player().server==event.getServer());}
+    @SubscribeEvent public static void logout(PlayerEvent.PlayerLoggedOutEvent event){if(event.getEntity() instanceof ServerPlayer player)ACTIVE.removeIf(l->l.player()==player);}
+    @SubscribeEvent public static void stopped(ServerStoppedEvent event){ACTIVE.removeIf(l->l.player().server==event.getServer());DEFERRED.removeIf(s->s.player().server==event.getServer());}
     @SubscribeEvent public static void tick(TickEvent.ServerTickEvent event){
         if(event.phase==TickEvent.Phase.START&&!DEFERRED.isEmpty()){
             var ready=new ArrayList<Deferred>();
@@ -95,11 +98,11 @@ final class GuideResearch {
             for(var shared:ready)if(shared.progress())progress(shared.player(),shared.research(),0);else complete(shared.player(),shared.research(),false);
         }
         if(event.phase!=TickEvent.Phase.END)return;
-        for(var iterator=ACTIVE.entrySet().iterator();iterator.hasNext();){
-            var entry=iterator.next();var player=entry.getKey();if(player.server!=event.getServer())continue;
-            if(player.isRemoved()||!player.isAlive()){iterator.remove();continue;}
-            var learning=entry.getValue();long left=learning.due()-player.server.overworld().getGameTime();
-            if(left<=0){iterator.remove();var settings=Guide.preferences(player);settings.remove("learning");settings.remove("learning_due");complete(player,learning.research(),false);}
+        for(var learning:List.copyOf(ACTIVE)){
+            var player=learning.player();if(player.server!=event.getServer()||!ACTIVE.contains(learning))continue;
+            if(player.isRemoved()||!player.isAlive()){ACTIVE.remove(learning);continue;}
+            long left=learning.due()-player.server.overworld().getGameTime();
+            if(left<=0){ACTIVE.remove(learning);Guide.preferences(player).getCompound("learning").remove(learning.research().id());complete(player,learning.research(),false);}
             else if(left==80||left==60||left==40||left==20)progress(player,learning.research(),switch((int)left){case 80->23;case 60->44;case 40->57;default->92;});
         }
     }

@@ -6,7 +6,7 @@ import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.Cancelable;
 
 /** Server-thread guide/API learning request before checking XP or charging it. Cancellation costs nothing.
- * Does not fire for trusted grants, knowledge sharing, completed/disabled research, or an already busy player.
+ * Does not fire for trusted grants, knowledge sharing, completed/disabled research, or the same research already being learned.
  * Source is the full ID of the clicked registered item; it is not a mutable inventory reference.
  */
 @Cancelable

@@ -43,7 +43,7 @@ SlimefunAddonApi.registerEntry(new SlimefunAddonApi.Entry(
 
 三种研究事件都在 `MinecraftForge.EVENT_BUS` 上同步执行，使用 `api` 包内的事件和完整 `ResourceLocation`，不暴露 Catalog 类型：
 
-- `PlayerPreResearchEvent`：指南点击／API learn 在经验检查与扣费前发送，可取消，取消零扣费。携带研究和来源物品 ID；重复／已完成／无门槛请求不发送。知识分享、直接授予不经过这个事件。
+- `PlayerPreResearchEvent`：指南点击／API learn 在经验检查与扣费前发送，可取消，取消零扣费。携带研究和来源物品 ID；不同研究可同时学习，同一研究重复点击／已完成／无门槛请求不发送。知识分享、直接授予不经过这个事件。
 - `ResearchUnlockEvent`：经验流程通过后的可取消事件，知识分享也使用它；**取消仍保留已扣经验**，这是 RC-37 语义。需要免费拒绝时监听前置事件。
 - `ResearchCompletedEvent`：新增完成位写入并标脏后发送，不可取消。学习完成和直接授予共用；重复授予不重复通知。回调应简短，不跨线程保存玩家对象；监听者异常正常传播。
 

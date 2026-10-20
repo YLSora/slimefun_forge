@@ -4,7 +4,7 @@
   "package": "io.github.slimefun4.forge.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "slimefun.refmap.json",
-  "mixins": ["NativeInteractionCommitMixin", "DistinctiveStackMixin", "NativeResultPolicyMixin", "NativeQuickMovePolicyMixin", "NativeEnchantPolicyMixin", "NotPlaceableMixin", "PermissionNodeAccess", "ConnectionMixin", "GpsInteractionMixin", "FireworkStarRecipeMixin", "MerchantOfferMixin", "OutputChestMixin", "PiglinThrowMixin", "PiglinEquipmentDropMixin", "HopperInputMixin", "FluidPhysicsMixin", "BucketFluidMixin", "ContainerChangedMixin", "CoolerHungerMixin", "SpawnerMiningMixin", "SoulboundDeathMixin", "CrouchGadgetMixin", "ZombieCureAccess", "TalismanDurabilityMixin", "TalismanLootMixin", "TalismanHunterMixin", "TalismanEnchantMixin", "NativeInventoryTypeMixin", "EnhancedFurnaceMixin", "BlockTimingMixin", "RitualChunkMixin"],
+  "mixins": ["NativeInteractionCommitMixin", "DistinctiveStackMixin", "NativeResultPolicyMixin", "NativeQuickMovePolicyMixin", "NativeEnchantPolicyMixin", "NotPlaceableMixin", "PermissionNodeAccess", "ConnectionMixin", "PlayerClientOptionsMixin", "GpsInteractionMixin", "FireworkStarRecipeMixin", "MerchantOfferMixin", "OutputChestMixin", "PiglinThrowMixin", "PiglinEquipmentDropMixin", "HopperInputMixin", "FluidPhysicsMixin", "BucketFluidMixin", "ContainerChangedMixin", "CoolerHungerMixin", "SpawnerMiningMixin", "SoulboundDeathMixin", "CrouchGadgetMixin", "ZombieCureAccess", "TalismanDurabilityMixin", "TalismanLootMixin", "TalismanHunterMixin", "TalismanEnchantMixin", "NativeInventoryTypeMixin", "EnhancedFurnaceMixin", "BlockTimingMixin", "RitualChunkMixin"],
   "client": ["NativeElytraLayerMixin", "IndigoItemLayersMixin"],
   "injectors": {"defaultRequire": 1}
 }

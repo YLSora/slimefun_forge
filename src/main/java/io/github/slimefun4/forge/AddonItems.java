@@ -22,7 +22,7 @@ public final class AddonItems {
         if(entity instanceof net.minecraft.world.level.block.entity.SpawnerBlockEntity&&entity.getPersistentData().getBoolean("slimefun_reinforced_spawner"))return SpawnerItems.mined(entity);
         var result=entity instanceof PlacedItem identity?Objects.requireNonNull(identity.placedItem()).copy():new ItemStack(state.getBlock());
         if(result.isEmpty())return ItemStack.EMPTY;
-        EventRules.stack(result.getCount(),1);if(!(result.getItem() instanceof BlockItem item)||item.getBlock()!=state.getBlock())throw new IllegalArgumentException("Placed identity does not match native block at "+pos);return result;
+        EventRules.stack(result.getCount(),1);if(result.getItem()!=state.getBlock().asItem())throw new IllegalArgumentException("Placed identity does not match native block at "+pos);return result;
     }
     public static boolean distinctive(ItemStack first,ItemStack second,Match purpose){
         if(!(first.getItem() instanceof Distinctive item))return true;

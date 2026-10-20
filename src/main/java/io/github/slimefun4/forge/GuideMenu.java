@@ -168,7 +168,7 @@ public final class GuideMenu extends ChestMenu {
                 icon.getOrCreateTag().putBoolean("slimefun_preview_lore",true);
                 icon.hideTooltipPart(ItemStack.TooltipPart.MODIFIERS);icon.hideTooltipPart(ItemStack.TooltipPart.ENCHANTMENTS);icon.hideTooltipPart(ItemStack.TooltipPart.ADDITIONAL);
             }
-            put(9+i,icon,()->{if(!available(context(),id))return;if(cheat)give(id,false);else if(query==null&&(!ItemAccess.enabled(owner.level(),id)||!ItemAccess.permitted(owner,id)))return;else if(query==null&&!known(id))GuideResearch.unlock(owner,research,GuideContent.icon(id));else item(id);});
+            put(9+i,icon,()->{if(!available(context(),id))return;if(cheat)give(id,false);else if(query==null&&(!ItemAccess.enabled(owner.level(),id)||!ItemAccess.permitted(owner,id)))return;else if(query==null&&!known(id))GuideResearch.unlock(owner,research,id);else item(id);});
         }
     }
     private static String id(ItemStack stack){var key=BuiltInRegistries.ITEM.getKey(stack.getItem());return key.getNamespace().equals(SlimefunForge.ID)?key.getPath():key.toString();}

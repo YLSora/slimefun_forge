@@ -10,6 +10,11 @@ base.archivesName = 'slimefun-forge-1.20.1'
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 java.withSourcesJar()
 def runtimeRoot = file('run')
+sourceSets.create('gameTest')
+sourceSets.gameTest.compileClasspath += sourceSets.main.output
+sourceSets.gameTest.runtimeClasspath += sourceSets.main.output
+configurations.gameTestImplementation.extendsFrom(configurations.implementation)
+configurations.gameTestRuntimeOnly.extendsFrom(configurations.runtimeOnly)
 
 minecraft {
     mappings channel: 'official', version: '1.20.1'
@@ -24,6 +29,11 @@ minecraft {
         server {
             workingDirectory new File(runtimeRoot, 'server')
             args '--nogui'
+        }
+        gameTestServer {
+            workingDirectory new File(runtimeRoot, 'gameTest')
+            property 'forge.enabledGameTestNamespaces', 'slimefun'
+            mods { slimefun { source sourceSets.gameTest } }
         }
     }
 }

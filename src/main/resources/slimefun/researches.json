@@ -1420,7 +1420,6 @@
     "items": [
       "programmable_android",
       "programmable_android_farmer",
-      "programmable_android_butcher",
       "programmable_android_fisherman",
       "programmable_android_miner",
       "programmable_android_woodcutter"

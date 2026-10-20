@@ -30,7 +30,7 @@ public final class AddonResearch {
         check(player.server);Objects.requireNonNull(source,"Research source item");String id=ItemAccess.id(source);
         if(source.isEmpty()||id==null)throw new IllegalArgumentException("Research source is not a registered Slimefun guide item");
         var research=ResearchData.research(source);
-        return research!=null&&ItemAccess.enabled(player.level(),id)&&ItemAccess.permitted(player,id)&&GuideResearch.unlock(player,research,source);
+        return research!=null&&ItemAccess.enabled(player.level(),id)&&ItemAccess.permitted(player,id)&&GuideResearch.unlock(player,research,id);
     }
     public static boolean grant(ServerPlayer player,ResourceLocation id){
         check(player.server);var research=require(id);GuideResearch.cancel(player,research);boolean changed=ResearchData.get(player).grant(player,research);refresh(player);return changed;

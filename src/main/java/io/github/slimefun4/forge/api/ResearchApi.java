@@ -31,7 +31,8 @@ public final class ResearchApi {
     }
     /** Start learning from an actual registered guide item, using guide policy, XP, events and animation.
      * Returns true only if a new request was accepted; completion is observed via ResearchCompletedEvent.
-     * ItemStack data is never retained. Repeated/busy/denied requests return false without another charge.
+     * Different researches may run concurrently. Repeated requests for the same research and denied requests
+     * return false without another charge. ItemStack data is never retained.
      */
     public static boolean learn(ServerPlayer player, ItemStack source) { return AddonResearch.learn(player, source); }
     /** Grant immediately without XP or cancellable learning events. Cancels pending learning of this research.
